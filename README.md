@@ -1,6 +1,6 @@
 # L'Instinct du Pouvoir
 
-![Couverture](Couverture.png)
+<img src="Couverture.png" alt="Couverture" width="200">
 
 Une analyse et interprétation des principes de Machiavel en 24 chapitres.
 
