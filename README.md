@@ -1,6 +1,8 @@
 # L'Instinct du Pouvoir
 
-<img src="Couverture.png" alt="Couverture" width="200">
+<div align="center">
+  <img src="Couverture.png" alt="Couverture" width="60%">
+</div>
 
 Une analyse et interprétation des principes de Machiavel en 24 chapitres.
 
@@ -33,21 +35,11 @@ Ce projet décortique les fondamentaux de la pensée machiavélienne moderne à 
 23. **Liberté & Nécessaire** - Le choix et la contrainte
 24. **Vérité Effective** - Le pragmatisme avant l'idéal
 
-## 📚 Structure
-
-- **Principe_XX.md** - Chaque principe développé en détail
-- **corpus/** - Textes originaux de Machiavel (Le Prince, L'Art de la Guerre)
-- **extracted_guerre/** - Extraction HTML de L'Art de la Guerre
-- **extracted_prince/** - Extraction HTML du Prince
-- **Avant_Propos.md** - Introduction au projet
-- **generer_pdf.py** - Script pour générer une version PDF
 
 ## 🎨 Formats
 
 Le projet inclut :
 - 📄 Versions markdown des 24 principes
-- 📖 Textes originaux en EPUB
-- 🌐 Extraits HTML structurés
 - 🖨️ Génération PDF
 
 ## 📖 Lecture
@@ -56,10 +48,6 @@ Pour lire les principes :
 1. Commencez par [Avant_Propos.md](Avant_Propos.md)
 2. Parcourez les principes dans l'ordre ou selon vos intérêts
 3. Consultez le corpus pour les références originales
-
-## 🔧 Outils
-
-- `generer_pdf.py` - Génère une version complète en PDF
 
 ## 📝 Licence
 
