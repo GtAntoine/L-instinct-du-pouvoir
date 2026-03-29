@@ -1,7 +1,7 @@
 # PRINCIPE QUATORZIÈME
 ## SE GARDER DES FLATTEURS, CULTIVER LES CONTRADICTEURS
 
-> *« Il n'y a pas d'autre moyen de se garantir de la flatterie que de faire comprendre aux hommes qu'ils ne vous offenseront point en vous disant la vérité. Mais quand chacun peut vous dire la vérité, on manque de respect envers vous. Un prince sage doit donc choisir dans ses États des hommes sages, et leur donner, mais à eux seuls, libre pouvoir de lui dire la vérité. »*
+> *« Ils n'ont effectivement qu'un bon moyen de se prémunir contre la flatterie, c'est de faire bien comprendre qu'on ne peut leur déplaire en leur disant la vérité : or, si toute personne peut dire librement à un prince ce qu'elle croit vrai, il cesse bientôt d'être respecté. Un prince prudent doit donc faire choix dans ses États de quelques hommes sages, et leur donner, mais à eux seuls, liberté entière de lui dire la vérité. »*
 > — *Le Prince*, chapitre XXIII
 
 ### Le piège doré de la flatterie
@@ -10,7 +10,7 @@ Il existe peu de dangers aussi insidieux pour le pouvoir que la flatterie. Parce
 
 Le flatteur ne ment pas toujours. Il sélectionne. Il amplifie vos succès. Il minimise vos échecs. Il trouve des justifications brillantes à vos erreurs. Il vous renvoie une image de vous-même non pas fausse, mais *idéalisée*. Et cette image est si agréable que vous commencez à y croire.
 
-C'est là que le piège se referme. Parce qu'une fois que vous croyez à votre propre légende, vous cessez de corriger vos erreurs. Vous cessez d'apprendre. Vous cessez de voir les menaces réelles. Vous vivez dans une bulle de validation constante, jusqu'à ce que la réalité — brutale, indifférente à vos illusions — vienne la crever.
+C'est là que le piège se referme. Parce qu'une fois que vous croyez à votre propre légende, vous cessez de corriger vos erreurs. Vous cessez d'apprendre. Vous cessez de voir les menaces réelles. Vous vivez dans une bulle de validation constante, jusqu'à ce que la réalité (brutale, indifférente à vos illusions) vienne la crever.
 
 Machiavel a vu des princes tomber ainsi. Non pas par manque de talent, mais par excès de confiance nourrie par des courtisans qui leur disaient ce qu'ils voulaient entendre. Il en tire une leçon brutale : la vérité est inconfortable, mais vitale. La flatterie est agréable, mais mortelle.
 
@@ -18,13 +18,13 @@ Machiavel a vu des princes tomber ainsi. Non pas par manque de talent, mais par 
 
 Les neurosciences modernes ont découvert quelque chose de troublant : nous n'avons même pas besoin de flatteurs externes. Notre cerveau nous flatte déjà tout seul.
 
-Le biais de confirmation — documenté par Peter Wason dès 1960[^1] — est notre tendance à chercher, interpréter et mémoriser sélectivement les informations qui confirment nos croyances préexistantes. Nous ne traitons pas l'information de manière neutre. Nous la *filtrons* pour préserver notre vision du monde.
+Le biais de confirmation (documenté par Peter Wason dès 1960[^1]) est notre tendance à chercher, interpréter et mémoriser sélectivement les informations qui confirment nos croyances préexistantes. Nous ne traitons pas l'information de manière neutre. Nous la *filtrons* pour préserver notre vision du monde.
 
 [^1]: Wason, P. C. (1960). "On the Failure to Eliminate Hypotheses in a Conceptual Task." *Quarterly Journal of Experimental Psychology*, 12(3), 129-140.
 
-Si vous croyez être un excellent manager, vous remarquez les moments où vos équipes réussissent (« Grâce à mon leadership »). Vous ne remarquez pas — ou vous rationalisez — les moments où elles échouent (« C'est le contexte, la malchance, les ressources insuffisantes »). Votre cerveau construit un récit cohérent où vous êtes le héros compétent.
+Si vous croyez être un excellent manager, vous remarquez les moments où vos équipes réussissent (« Grâce à mon leadership »). Vous ne remarquez pas (ou vous rationalisez) les moments où elles échouent (« C'est le contexte, la malchance, les ressources insuffisantes »). Votre cerveau construit un récit cohérent où vous êtes le héros compétent.
 
-C'est un mécanisme de protection de l'ego. Mais c'est aussi un mécanisme d'aveuglement. Parce que les informations négatives — les signaux d'alarme, les échecs naissants, les failles dans votre stratégie — sont précisément celles que votre cerveau va minimiser ou ignorer.
+C'est un mécanisme de protection de l'ego. Mais c'est aussi un mécanisme d'aveuglement. Parce que les informations négatives (les signaux d'alarme, les échecs naissants, les failles dans votre stratégie) sont précisément celles que votre cerveau va minimiser ou ignorer.
 
 Ajoutez maintenant des flatteurs externes à ce mécanisme interne, et vous obtenez une *double amplification*. Votre cerveau filtre déjà la réalité pour vous rassurer. Vos courtisans filtrent *encore* ce qui passe à travers votre premier filtre. Ce qui arrive finalement à votre conscience est une version tellement édulcorée de la réalité qu'elle ne ressemble plus à rien.
 
@@ -62,7 +62,7 @@ D'où la nécessité de choisir des conseillers :
 - **Compétents** : leur expertise est reconnue *avant* d'entrer au conseil, pas grâce au prince
 - **Indépendants** : ils ont une base de pouvoir ou de ressources qui ne dépend pas entièrement du prince
 
-Ces caractéristiques créent les conditions de la franchise. Parce qu'un conseiller compétent et indépendant peut se permettre de contrarier le prince. Il ne risque pas de tout perdre. Il a une valeur sur le marché. Il peut partir. Cette menace de sortie — même non formulée — est ce qui lui donne la liberté de parole.
+Ces caractéristiques créent les conditions de la franchise. Parce qu'un conseiller compétent et indépendant peut se permettre de contrarier le prince. Il ne risque pas de tout perdre. Il a une valeur sur le marché. Il peut partir. Cette menace de sortie (même non formulée) est ce qui lui donne la liberté de parole.
 
 ### Le red teaming : institutionnaliser le contradicteur
 
@@ -96,7 +96,7 @@ C'est difficile. Ça demande une discipline de fer. Mais c'est la seule manière
 
 **En entreprise**, le principe machiavélien explique pourquoi tant de startups prometteuses s'effondrent après leur succès initial. Le fondateur-CEO, adulé par ses équipes, par la presse, par les investisseurs, commence à croire qu'il a le Midas touch. Plus personne n'ose lui dire qu'il se trompe. Il lance des produits absurdes, fait des acquisitions désastreuses, ignore les signaux du marché.
 
-Exemple classique : Yahoo sous Marissa Mayer. Mayer, brillante, charismatique, ex-Google, arrive en sauveur. Pendant deux ans, elle peut faire à peu près n'importe quoi — les médias encensent chaque décision. Elle achète Tumblr pour 1,1 milliard $ (qui ne vaudra plus rien). Elle se concentre sur le mobile pendant que le marché de la publicité en ligne se consolide autour de Google et Facebook. Personne dans son conseil rapproché ne semble avoir eu le courage (ou la capacité) de lui dire : « Ceci est une erreur stratégique. »
+Exemple classique : Yahoo sous Marissa Mayer. Mayer, brillante, charismatique, ex-Google, arrive en sauveur. Pendant deux ans, elle peut faire à peu près n'importe quoi : les médias encensent chaque décision. Elle achète Tumblr pour 1,1 milliard $ (qui ne vaudra plus rien). Elle se concentre sur le mobile pendant que le marché de la publicité en ligne se consolide autour de Google et Facebook. Personne dans son conseil rapproché ne semble avoir eu le courage (ou la capacité) de lui dire : « Ceci est une erreur stratégique. »
 
 Résultat : Yahoo, qui valait 125 milliards $ en 2000, est vendu pour 4,5 milliards $ en 2017. La flatterie a coûté 120 milliards de dollars.
 
@@ -149,7 +149,7 @@ Si vous cochez trois de ces cases ou plus, vous êtes en danger. Machiavel vous 
 
 ### Conclusion : la vérité comme actif stratégique
 
-Ce que Machiavel nous enseigne dans ce principe, c'est que l'information vraie est le carburant du pouvoir durable. Et que ce carburant est rare, précieux, fragile. Parce que tout — votre ego, vos courtisans, votre cerveau lui-même — conspire à vous en priver.
+Ce que Machiavel nous enseigne dans ce principe, c'est que l'information vraie est le carburant du pouvoir durable. Et que ce carburant est rare, précieux, fragile. Parce que tout (votre ego, vos courtisans, votre cerveau lui-même) conspire à vous en priver.
 
 La flatterie est le chemin de moindre résistance. Elle est agréable pour celui qui la reçoit. Elle est facile pour celui qui la donne. Elle crée une atmosphère confortable, consensuelle, harmonieuse. Et c'est précisément pour cela qu'elle est mortelle.
 

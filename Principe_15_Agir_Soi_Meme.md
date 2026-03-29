@@ -1,10 +1,10 @@
 # PRINCIPE QUINZIÈME
 ## AGIR SOI-MÊME, NE PAS TOUT DÉLÉGUER
 
-> *« Un prince ne doit jamais rester oisif en temps de paix, mais capitaliser industrieusement afin de pouvoir en tirer profit dans l'adversité. Quand la fortune change, elle le trouvera préparé à lui résister. »*
+> *« Un prince sage, durant la paix, loin de rester oisif, peut se prémunir contre les accidents de la fortune, en sorte que, si elle lui devient contraire, il se trouve en état de résister à ses coups. »*
 > — *Le Prince*, chapitre XIV
 
-> *« Les princes qui pensent plus aux délices qu'aux armes perdent leurs États. La première cause qui fait perdre les États, c'est de négliger l'art de la guerre. »*
+> *« C'est pour avoir préféré les douceurs de la mollesse, qu'on a vu des souverains perdre leurs États. Mépriser l'art de la guerre, c'est faire le premier pas vers sa ruine. »*
 > — *Le Prince*, chapitre XIV
 
 ### L'illusion du pilote automatique
@@ -13,11 +13,11 @@ Il y a un moment séduisant dans toute ascension au pouvoir. C'est le moment où
 
 C'est à ce moment précis, dit Machiavel, que vous êtes le plus en danger. Parce que le système ne fonctionne jamais vraiment tout seul. Il fonctionne parce que vous êtes *présent* — pas nécessairement dans chaque décision, mais dans la *possibilité* de chaque décision. Dès que cette présence s'estompe, dès que les gens comprennent que vous ne suivez plus, le système dérive.
 
-Les lieutenants poursuivent leurs propres intérêts. Les processus se rigidifient en bureaucratie. Les décisions stratégiques sont prises par défaut, par inertie, sans que personne ne les ait vraiment pensées. Et quand la crise arrive — et elle arrive toujours — vous découvrez avec stupeur que vous avez perdu la main sur votre propre organisation.
+Les lieutenants poursuivent leurs propres intérêts. Les processus se rigidifient en bureaucratie. Les décisions stratégiques sont prises par défaut, par inertie, sans que personne ne les ait vraiment pensées. Et quand la crise arrive (et elle arrive toujours), vous découvrez avec stupeur que vous avez perdu la main sur votre propre organisation.
 
 Machiavel avait vu des princes tomber ainsi. Non par défaite militaire, mais par atrophie. Ils avaient délégué, puis cessé de superviser, puis découvert qu'ils ne commandaient plus rien. Leurs ordres n'étaient plus obéis. Leurs décisions n'étaient plus exécutées. Ils étaient devenus des rois fainéants dans leur propre royaume.
 
-La leçon : le pouvoir ne se conserve pas passivement. Il exige un entretien actif, constant, vigilant. Même — surtout — quand tout va bien.
+La leçon : le pouvoir ne se conserve pas passivement. Il exige un entretien actif, constant, vigilant. Surtout quand tout va bien.
 
 ### L'effet de présence : pourquoi les leaders visibles comptent
 
@@ -29,7 +29,7 @@ Ce n'est pas du management par micromanagement. C'est plus subtil. C'est l'effet
 
 Cet effet s'appelle la « vigilance induite par la présence ». Quand les gens savent que le chef peut débarquer, ils restent sur leurs gardes. Ils ne relâchent pas leur attention. Ils ne coupent pas les coins. Ils maintiennent les standards.
 
-À l'inverse, quand le chef disparaît — délègue tout, ne supervise plus rien, se retire dans son bureau ou ses loisirs — une forme de relâchement s'installe. Pas nécessairement par malveillance. Juste par nature humaine. Les standards glissent. Les petites déviations deviennent acceptables. L'excellence devient optionnelle.
+À l'inverse, quand le chef disparaît (délègue tout, ne supervise plus rien, se retire dans son bureau ou ses loisirs), une forme de relâchement s'installe. Pas nécessairement par malveillance. Juste par nature humaine. Les standards glissent. Les petites déviations deviennent acceptables. L'excellence devient optionnelle.
 
 C'est exactement ce que Machiavel observe quand il critique les princes qui « pensent plus aux délices qu'aux armes ». Ce n'est pas une critique morale de la paresse. C'est une observation mécanique : l'absence du prince dégrade le système.
 
@@ -65,9 +65,9 @@ Les neurosciences modernes ont découvert le principe du « use it or lose it »
 
 [^3]: Kleim, J. A., & Jones, T. A. (2008). "Principles of Experience-Dependent Neural Plasticity: Implications for Rehabilitation After Brain Damage." *Journal of Speech, Language, and Hearing Research*, 51(1), S225-S239.
 
-C'est vrai pour les compétences physiques. C'est aussi vrai pour les compétences cognitives. L'art de la décision stratégique, du jugement en situation complexe, de l'analyse des rapports de force — tout cela s'émousse si on ne l'exerce pas.
+C'est vrai pour les compétences physiques. C'est aussi vrai pour les compétences cognitives. L'art de la décision stratégique, du jugement en situation complexe, de l'analyse des rapports de force (tout cela s'émousse si on ne l'exerce pas).
 
-Le prince qui délègue tout, qui cesse de s'impliquer dans les décisions difficiles, qui laisse ses ministres gérer les crises, perd progressivement sa capacité à le faire lui-même. Et quand arrive le moment où il *doit* décider — parce que la crise est trop grave pour être déléguée, ou parce que ses délégués l'ont trahi — il découvre qu'il ne sait plus.
+Le prince qui délègue tout, qui cesse de s'impliquer dans les décisions difficiles, qui laisse ses ministres gérer les crises, perd progressivement sa capacité à le faire lui-même. Et quand arrive le moment où il *doit* décider (parce que la crise est trop grave pour être déléguée, ou parce que ses délégués l'ont trahi), il découvre qu'il ne sait plus.
 
 Machiavel raconte l'histoire de princes qui, après des années de paix déléguée, se retrouvent incapables de commander en temps de guerre. Non par lâcheté, mais par pure incompétence. Ils ont oublié comment on fait. Leurs muscles décisionnels se sont atrophiés.
 
@@ -93,11 +93,11 @@ Ce n'est pas du micromanagement. C'est de la *macro-vigilance*. Ils ne gèrent p
 
 Les présidents qui restent dans la boucle (Clinton, Obama) gardent la main. Ils lisent les briefings. Ils posent des questions. Ils challengent. Ils décident. Et même quand les décisions sont mauvaises, au moins ce sont *leurs* décisions. Ils gouvernent effectivement.
 
-**En relations personnelles**, le principe s'applique plus subtilement. Les couples qui « mettent leur relation en pilote automatique » — qui cessent de faire des efforts actifs, qui supposent que « ça va continuer tout seul parce qu'on s'aime » — découvrent souvent que non, ça ne continue pas tout seul.
+**En relations personnelles**, le principe s'applique plus subtilement. Les couples qui « mettent leur relation en pilote automatique » (qui cessent de faire des efforts actifs, qui supposent que « ça va continuer tout seul parce qu'on s'aime ») découvrent souvent que non, ça ne continue pas tout seul.
 
 Une relation, comme le pouvoir, demande un entretien actif. Des conversations intentionnelles. Des attentions régulières. Des ajustements constants. Pas parce que c'est romantique. Parce que c'est nécessaire. Dès qu'on cesse d'y travailler, ça commence à dériver. Lentement. Imperceptiblement. Jusqu'à ce qu'un jour on se réveille à côté d'un étranger.
 
-Le conseil machiavélien s'applique : ne déléguez pas votre relation à l'habitude. Restez activement impliqué. Même — surtout — quand tout va bien.
+Le conseil machiavélien s'applique : ne déléguez pas votre relation à l'habitude. Restez activement impliqué. Même (surtout) quand tout va bien.
 
 ### Le cas des généraux délégués : Cesare Borgia et Ramiro de Lorca
 
@@ -105,7 +105,7 @@ Machiavel raconte une histoire fascinante qui illustre parfaitement ce principe.
 
 Ramiro fait le sale boulot. Il pacifie brutalement. Il exécute, confisque, terrorise. En quelques mois, la région est sous contrôle. Mission accomplie.
 
-Mais Borgia voit un problème : Ramiro est *trop* puissant. Il a construit sa propre base. Il est craint. Il pourrait devenir un rival. De plus, sa brutalité commence à retomber sur Borgia lui-même — les gens associent la tyrannie à Borgia.
+Mais Borgia voit un problème : Ramiro est *trop* puissant. Il a construit sa propre base. Il est craint. Il pourrait devenir un rival. De plus, sa brutalité commence à retomber sur Borgia lui-même (les gens associent la tyrannie à Borgia).
 
 Solution de Borgia : il fait arrêter Ramiro, l'accuse de crimes (probablement vrais), et le fait exécuter publiquement sur la place de Cesena, coupé en deux, son corps exposé.
 

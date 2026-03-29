@@ -1,7 +1,7 @@
 # PRINCIPE TREIZIÈME
 ## RÉFORMER D'UN SEUL COUP, GRATIFIER PAR GOUTTES
 
-> *« Les injures doivent être faites toutes ensemble, afin que, étant moins goûtées, elles blessent moins ; les bienfaits doivent être répandus peu à peu, afin qu'ils soient mieux savourés. »*
+> *« Les cruautés doivent être commises toutes à la fois, pour que, leur amertume se faisant moins sentir, elles irritent moins ; les bienfaits, au contraire, doivent se succéder lentement, pour qu'ils soient savourés davantage. »*
 > — *Le Prince*, chapitre VIII
 
 ### L'asymétrie temporelle de la douleur et du plaisir
@@ -24,7 +24,7 @@ Comment est-ce possible ? Par un mécanisme que les psychologues appellent *adap
 
 C'est le principe du tapis roulant hédonique. Vous gagnez au loto, vous êtes extatique. Six mois plus tard, la grande maison et la voiture de luxe sont devenues votre quotidien. Elles ne vous font plus vibrer. Vous êtes revenu au niveau de bonheur de base, juste avec des possessions plus coûteuses.
 
-Mais — et c'est là que Machiavel entre en scène — l'adaptation hédonique est *asymétrique*. Nous nous habituons très vite aux bonnes choses. Mais nous nous habituons beaucoup plus lentement aux mauvaises. Une perte, une blessure, une injure résonne longtemps. Un gain, une récompense, un compliment s'évanouit rapidement.
+Mais (et c'est là que Machiavel entre en scène) l'adaptation hédonique est *asymétrique*. Nous nous habituons très vite aux bonnes choses. Mais nous nous habituons beaucoup plus lentement aux mauvaises. Une perte, une blessure, une injure résonne longtemps. Un gain, une récompense, un compliment s'évanouit rapidement.
 
 D'où la stratégie machiavélienne : concentrez les injures (elles feront mal de toute façon, autant que ce soit fini vite et qu'on s'y habitue). Étalez les bienfaits (chaque nouveau bienfait relance le plaisir avant qu'on ne s'habitue au précédent).
 
@@ -125,7 +125,7 @@ Inversement, les compliments et les marques d'affection doivent être fréquents
 
 Il y a une raison supplémentaire, plus subtile, pour laquelle les bienfaits doivent être étalés. Les recevoir tous d'un coup crée une *dette psychologique* écrasante. Et les gens détestent se sentir endettés.
 
-Robert Cialdini, psychologue social, a montré que la norme de réciprocité — « si on me donne quelque chose, je dois donner en retour » — est l'une des plus puissantes forces sociales[^5]. Mais quand le don est trop grand, trop soudain, trop impossible à rendre, il ne crée pas de la gratitude. Il crée du *malaise*.
+Robert Cialdini, psychologue social, a montré que la norme de réciprocité (« si on me donne quelque chose, je dois donner en retour ») est l'une des plus puissantes forces sociales[^5]. Mais quand le don est trop grand, trop soudain, trop impossible à rendre, il ne crée pas de la gratitude. Il crée du *malaise*.
 
 [^5]: Cialdini, R. B. (2006). *Influence: The Psychology of Persuasion*. New York: Harper Business.
 

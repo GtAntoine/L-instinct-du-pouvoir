@@ -4,3 +4,6 @@ corpus/
 extracted_guerre/
 extracted_prince/
 old/
+
+# Audiobook chunks (fichiers intermédiaires)
+audiobook/chunks/

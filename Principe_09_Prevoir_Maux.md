@@ -6,9 +6,9 @@
 
 ### La métaphore médicale et la fenêtre d'intervention
 
-L'étisie — la tuberculose, en langage moderne — était pour les contemporains de Machiavel une maladie mystérieuse et terrifiante. Ses symptômes initiaux sont subtils : une légère fatigue, une toux sèche, quelques sueurs nocturnes. Rien qui alarme. On se dit que ça va passer. Et pendant qu'on temporise, le bacille se multiplie, colonise les poumons, détruit le tissu.
+L'étisie (la tuberculose, en langage moderne) était pour les contemporains de Machiavel une maladie mystérieuse et terrifiante. Ses symptômes initiaux sont subtils : une légère fatigue, une toux sèche, quelques sueurs nocturnes. Rien qui alarme. On se dit que ça va passer. Et pendant qu'on temporise, le bacille se multiplie, colonise les poumons, détruit le tissu.
 
-Quand enfin les symptômes deviennent évidents — fièvre intense, hémoptysie, amaigrissement spectaculaire — la maladie est déjà avancée. À l'époque de Machiavel, c'était une condamnation à mort. Aujourd'hui encore, une tuberculose non traitée tue dans 50 % des cas.
+Quand enfin les symptômes deviennent évidents (fièvre intense, hémoptysie, amaigrissement spectaculaire) la maladie est déjà avancée. À l'époque de Machiavel, c'était une condamnation à mort. Aujourd'hui encore, une tuberculose non traitée tue dans 50 % des cas.
 
 La leçon de Machiavel est d'une clarté chirurgicale : il existe une *fenêtre d'intervention* pendant laquelle le problème est résolvable à moindre coût. Mais cette fenêtre se situe précisément au moment où le problème est le moins *visible*. Une fois qu'il devient visible, il est souvent trop tard.
 
@@ -18,7 +18,7 @@ Le leader sage n'attend pas que le feu soit visible pour chercher la fumée. Il 
 
 ### L'escompte hyperbolique : pourquoi nous ignorons les menaces futures
 
-Mais si c'est si évident, pourquoi ne le fait-on pas ? Pourquoi les gens — même intelligents, même expérimentés — ignorent-ils systématiquement les signaux faibles jusqu'à ce qu'il soit trop tard ?
+Mais si c'est si évident, pourquoi ne le fait-on pas ? Pourquoi les gens (même intelligents, même expérimentés) ignorent-ils systématiquement les signaux faibles jusqu'à ce qu'il soit trop tard ?
 
 La réponse tient en un mécanisme neurologique découvert par l'économiste David Laibson : l'escompte hyperbolique[^1]. Notre cerveau ne valorise pas le futur de manière linéaire. Il le dévalue de manière *exponentielle*.
 
@@ -28,9 +28,9 @@ Un gain ou une perte qui interviendra dans un an est perçu comme valant environ
 
 Appliquons cela au problème de Machiavel. Un problème naissant (l'étisie précoce, le rival qui s'arme discrètement, le concurrent qui développe une technologie de rupture) est par définition un problème *futur*. Il n'a pas encore d'impact tangible aujourd'hui. Notre cerveau le dévalue donc massivement.
 
-À l'inverse, le coût de traiter ce problème naissant est *présent*. Il faut investir du temps, de l'argent, du capital politique — maintenant. Bilan : coût certain et immédiat contre bénéfice incertain et futur. Le cerveau choisit presque toujours de ne rien faire.
+À l'inverse, le coût de traiter ce problème naissant est *présent*. Il faut investir du temps, de l'argent, du capital politique (maintenant). Bilan : coût certain et immédiat contre bénéfice incertain et futur. Le cerveau choisit presque toujours de ne rien faire.
 
-C'est seulement quand le problème devient *présent* — quand l'étisie provoque l'hémoptysie, quand le rival lance son attaque, quand le concurrent vous prend 20 % de parts de marché — que le cerveau le valorise enfin correctement. Mais à ce stade, le coût de résolution a explosé.
+C'est seulement quand le problème devient *présent* (quand l'étisie provoque l'hémoptysie, quand le rival lance son attaque, quand le concurrent vous prend 20 % de parts de marché) que le cerveau le valorise enfin correctement. Mais à ce stade, le coût de résolution a explosé.
 
 Machiavel n'avait pas les IRM fonctionnelles pour observer l'escompte hyperbolique. Mais il l'avait compris par simple observation des princes qui perdaient leurs territoires en refusant de voir venir les coups.
 
@@ -42,7 +42,7 @@ Il y a pire que l'escompte hyperbolique. Il y a ce que les économistes Niklas K
 
 Leur étude porte sur les investisseurs en Bourse. Résultat : quand les marchés montent, les gens consultent leur portefeuille fréquemment. Quand les marchés baissent, ils le consultent beaucoup moins. Ils *savent* que les marchés baissent. Mais ils ne veulent pas *voir* combien ils perdent. Ils enfouissent la tête dans le sable.
 
-C'est irrationnel. Consulter le portefeuille ne change rien aux pertes. Mais ne pas le consulter procure un soulagement psychologique immédiat. Le cerveau limbique — celui qui gère les émotions — préfère l'ignorance confortable à la connaissance douloureuse.
+C'est irrationnel. Consulter le portefeuille ne change rien aux pertes. Mais ne pas le consulter procure un soulagement psychologique immédiat. Le cerveau limbique (celui qui gère les émotions) préfère l'ignorance confortable à la connaissance douloureuse.
 
 Les études médicales confirment le phénomène : les gens qui suspectent un problème de santé grave (une boule suspecte, des symptômes inquiétants) reportent souvent la consultation par *peur de savoir*. Ils préfèrent l'angoisse diffuse de l'incertitude à la certitude potentiellement catastrophique du diagnostic.
 
@@ -54,9 +54,9 @@ L'effet autruche n'est pas de la stupidité. C'est un mécanisme de défense psy
 
 ### Les signaux faibles et l'art de la vigilance organisée
 
-Face à ces deux biais — escompte hyperbolique et effet autruche — comment faire ? Comment forcer le cerveau à prêter attention aux menaces futures et subtiles ?
+Face à ces deux biais (escompte hyperbolique et effet autruche), comment faire ? Comment forcer le cerveau à prêter attention aux menaces futures et subtiles ?
 
-La réponse vient de la théorie des « signaux faibles », développée par Igor Ansoff dans les années 1970[^3]. Ansoff, consultant en stratégie, constate que les grandes ruptures — technologiques, réglementaires, concurrentielles — sont presque toujours précédées de signes avant-coureurs. Mais ces signes sont faibles : un article dans une revue spécialisée, un petit concurrent qui innove dans un marché de niche, un changement politique dans un pays lointain.
+La réponse vient de la théorie des « signaux faibles », développée par Igor Ansoff dans les années 1970[^3]. Ansoff, consultant en stratégie, constate que les grandes ruptures (technologiques, réglementaires, concurrentielles) sont presque toujours précédées de signes avant-coureurs. Mais ces signes sont faibles : un article dans une revue spécialisée, un petit concurrent qui innove dans un marché de niche, un changement politique dans un pays lointain.
 
 [^3]: Ansoff, H. I. (1975). "Managing Strategic Surprise by Response to Weak Signals." *California Management Review*, 18(2), 21-33.
 
@@ -99,15 +99,15 @@ Et pourtant, des millions de gens ne font pas leurs check-ups. Pourquoi ? Escomp
 
 **En entreprise**, le principe se traduit par l'investissement dans les indicateurs avancés plutôt que retardés. Le chiffre d'affaires est un indicateur *retardé* : quand il baisse, c'est que le problème a commencé il y a des mois. Le NPS (Net Promoter Score), le taux de désabonnement, l'engagement des employés — ce sont des indicateurs *avancés*. Ils chutent *avant* que le chiffre d'affaires ne chute. Ils donnent du temps pour corriger.
 
-Les entreprises qui investissent dans ces systèmes de détection — veille concurrentielle, retours clients systématiques, sondages internes réguliers — sont celles qui survivent aux ruptures. Pas parce qu'elles sont plus intelligentes. Parce qu'elles *voient venir*.
+Les entreprises qui investissent dans ces systèmes de détection (veille concurrentielle, retours clients systématiques, sondages internes réguliers) sont celles qui survivent aux ruptures. Pas parce qu'elles sont plus intelligentes. Parce qu'elles *voient venir*.
 
 **En relations**, le principe s'applique avec la même rigueur. Un léger malaise dans une amitié, un ressentiment naissant dans un couple, une communication qui se dégrade au travail — ce sont des étisies relationnelles. Au début, faciles à guérir (une conversation franche, des excuses, un ajustement). Si on attend que les symptômes soient évidents (disputes ouvertes, reproches accumulés, silence hostile), la guérison devient infiniment plus difficile, voire impossible.
 
-La conversation difficile d'aujourd'hui — quand le problème est encore petit — est moins douloureuse que la rupture de demain. Mais notre cerveau nous pousse à éviter la conversation (soulagement immédiat) au prix de la rupture future (coût différé et donc dévalué).
+La conversation difficile d'aujourd'hui (quand le problème est encore petit) est moins douloureuse que la rupture de demain. Mais notre cerveau nous pousse à éviter la conversation (soulagement immédiat) au prix de la rupture future (coût différé et donc dévalué).
 
 ### La sagesse prospective contre l'urgence permanente
 
-Il y a une raison structurelle pour laquelle les organisations ignorent les signaux faibles : elles sont *submergées par les signaux forts*. Les crises du jour, les deadlines de la semaine, les urgences du mois — tout cela crie pour obtenir de l'attention. Les signaux faibles, eux, murmurent.
+Il y a une raison structurelle pour laquelle les organisations ignorent les signaux faibles : elles sont *submergées par les signaux forts*. Les crises du jour, les deadlines de la semaine, les urgences du mois : tout cela crie pour obtenir de l'attention. Les signaux faibles, eux, murmurent.
 
 Dans cette compétition attentionnelle, le faible perd toujours contre le fort. C'est pourquoi les organisations qui réussissent à long terme sont celles qui *institutionnalisent* l'attention aux signaux faibles. Elles réservent du temps, des ressources, des personnes dédiées à cette tâche.
 
@@ -121,7 +121,7 @@ Machiavel recommandait au prince de faire exactement cela : ne pas se laisser ab
 
 Il y a toutefois un piège dans le principe machiavélien. Pris à l'extrême, il peut mener à la paralysie. Si on passe son temps à chercher des signaux faibles, à anticiper toutes les menaces possibles, à se préparer pour tous les scénarios, on ne fait plus rien d'autre. On devient le stratège qui prépare vingt plans et ne mène aucune bataille.
 
-Le sage machiavélien n'est pas celui qui voit *toutes* les menaces. C'est celui qui voit les *bonnes* menaces — celles qui sont à la fois plausibles et graves. Et qui agit sur celles-là avec détermination, tout en acceptant qu'il y aura toujours des cygnes noirs imprévisibles.
+Le sage machiavélien n'est pas celui qui voit *toutes* les menaces. C'est celui qui voit les *bonnes* menaces (celles qui sont à la fois plausibles et graves). Et qui agit sur celles-là avec détermination, tout en acceptant qu'il y aura toujours des cygnes noirs imprévisibles.
 
 C'est un équilibre. Entre la myopie de l'urgentiste (qui ne voit que le présent) et la paralysie du prospectiviste (qui ne voit que les futurs possibles). Entre l'action aveugle et la réflexion stérile.
 
@@ -129,7 +129,7 @@ Machiavel, comme toujours, ne donne pas de formule magique. Il donne un principe
 
 Parce que notre cerveau ne veut pas. Parce que notre organisation ne nous y pousse pas. Parce que c'est *contre-intuitif* d'investir de l'énergie sur des problèmes qui n'existent pas encore vraiment.
 
-Mais c'est exactement ce qui sépare ceux qui survivent de ceux qui périssent. Les premiers construisent des digues avant la crue. Les seconds se noient en se demandant pourquoi personne ne les avait prévenus — alors que tous les signes étaient là.
+Mais c'est exactement ce qui sépare ceux qui survivent de ceux qui périssent. Les premiers construisent des digues avant la crue. Les seconds se noient en se demandant pourquoi personne ne les avait prévenus, alors que tous les signes étaient là.
 
 Machiavel les avait prévenus. Cinq siècles à l'avance. L'étisie est facile à guérir au début, difficile à reconnaître. Puis elle devient facile à reconnaître, impossible à guérir. Le moment d'agir, c'est quand c'est difficile à reconnaître. Pas quand c'est impossible à guérir.
 

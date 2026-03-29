@@ -1,14 +1,14 @@
 # PRINCIPE DIX-SEPTIÈME
 ## LES ANCIENS RÉSISTENT, LES NOUVEAUX DOUTENT
 
-> *« Il faut considérer qu'il n'y a rien de plus difficile à entreprendre, de plus périlleux à conduire, ni de plus incertain dans son succès, que de prendre la direction d'un ordre nouveau de choses. Car le réformateur a pour ennemis tous ceux qui profitaient de l'ancien ordre, et il ne trouve que de tièdes défenseurs dans tous ceux qui profiteraient du nouveau. »*
+> *« Il n'y a point d'entreprise plus difficile à conduire, plus incertaine quant au succès, et plus dangereuse que celle d'introduire de nouvelles institutions. Celui qui s'y engage a pour ennemis tous ceux qui profitaient des institutions anciennes, et il ne trouve que de tièdes défenseurs dans ceux pour qui les nouvelles seraient utiles. »*
 > — *Le Prince*, chapitre VI
 
 ### L'asymétrie tragique du changement
 
 Voici l'un des insights les plus désespérants de Machiavel : quand vous tentez de changer un système, vous êtes presque toujours condamné à avoir des ennemis passionnés et des alliés tièdes.
 
-Pourquoi ? Parce que ceux qui profitent de l'ancien système *savent* ce qu'ils perdent. C'est concret. C'est immédiat. C'est certain. Leur privilège, leur statut, leur confort — tout cela est menacé. Ils se battront donc avec l'énergie du désespoir.
+Pourquoi ? Parce que ceux qui profitent de l'ancien système *savent* ce qu'ils perdent. C'est concret. C'est immédiat. C'est certain. Leur privilège, leur statut, leur confort (tout cela est menacé). Ils se battront donc avec l'énergie du désespoir.
 
 À l'inverse, ceux qui profiteraient du nouveau système ne *savent* pas encore ce qu'ils gagneront. C'est abstrait. C'est futur. C'est incertain. Peut-être que le nouveau système sera mieux. Peut-être que non. Peut-être qu'il bénéficiera à d'autres qu'à eux. Cette incertitude les rend hésitants, tièdes, peu fiables.
 
@@ -22,7 +22,7 @@ La psychologie moderne a donné un nom et une mesure à cette asymétrie. Daniel
 
 [^1]: Kahneman, D., & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." *Econometrica*, 47(2), 263-291.
 
-Perdre 100 euros vous fait plus mal que gagner 100 euros ne vous fait plaisir. Ce n'est pas une question de circonstances personnelles. C'est une asymétrie câblée dans le cerveau humain. L'évolution nous a programmés pour surréagir aux pertes — parce qu'ancestralement, une perte (de nourriture, de statut, de territoire) pouvait être mortelle, tandis qu'un gain était juste agréable.
+Perdre 100 euros vous fait plus mal que gagner 100 euros ne vous fait plaisir. Ce n'est pas une question de circonstances personnelles. C'est une asymétrie câblée dans le cerveau humain. L'évolution nous a programmés pour surréagir aux pertes, parce qu'ancestralement, une perte (de nourriture, de statut, de territoire) pouvait être mortelle, tandis qu'un gain était juste agréable.
 
 Transposé au changement institutionnel : ceux qui perdent leurs privilèges ressentent cette perte avec une intensité double de celle que ressentent ceux qui gagnent de nouveaux avantages. Même si le changement est objectivement bénéfique pour le plus grand nombre, la *douleur* concentrée des perdants sera plus forte que le *plaisir* diffus des gagnants.
 

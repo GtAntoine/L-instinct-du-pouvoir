@@ -18,7 +18,7 @@ Résultat : vous avez le pire des deux mondes. Aucun allié. Deux ennemis. Bravo
 
 ### Le regret d'inaction : pourquoi l'absence de choix pèse plus lourd que l'erreur
 
-La psychologie moderne a donné un nom à ce phénomène : le regret d'inaction. Thomas Gilovich et Victoria Medvec, dans une étude devenue classique[^1], ont montré que sur le court terme, les gens regrettent davantage leurs *actions* (« J'aurais pas dû faire ça »). Mais sur le long terme — et c'est le point crucial —, ils regrettent bien plus leurs *inactions* (« J'aurais dû oser »).
+La psychologie moderne a donné un nom à ce phénomène : le regret d'inaction. Thomas Gilovich et Victoria Medvec, dans une étude devenue classique[^1], ont montré que sur le court terme, les gens regrettent davantage leurs *actions* (« J'aurais pas dû faire ça »). Mais sur le long terme, et c'est le point crucial, ils regrettent bien plus leurs *inactions* (« J'aurais dû oser »).
 
 [^1]: Gilovich, T., & Medvec, V. H. (1995). "The Experience of Regret: What, When, and Why." *Psychological Review*, 102(2), 379-395.
 
@@ -40,7 +40,7 @@ Leur expérience célèbre : un sujet entend quelqu'un faire une crise (en réal
 
 Pourquoi ? Parce que la responsabilité se *dilue*. « Ce n'est pas à moi d'agir. Quelqu'un d'autre va le faire. » Chacun attend que les autres bougent. Résultat : personne ne bouge.
 
-Mais — et c'est là que Machiavel entre en scène — dans un conflit à deux parties, il n'y a *pas* de foule pour diluer la responsabilité. Il y a deux camps. Et vous. Votre neutralité ne peut pas se cacher derrière « les autres vont choisir ». Les autres ont déjà choisi. Ils se battent. Vous, vous regardez.
+Mais (et c'est là que Machiavel entre en scène) dans un conflit à deux parties, il n'y a *pas* de foule pour diluer la responsabilité. Il y a deux camps. Et vous. Votre neutralité ne peut pas se cacher derrière « les autres vont choisir ». Les autres ont déjà choisi. Ils se battent. Vous, vous regardez.
 
 Cette posture est *visible*. Elle est *interprétée*. Et elle est interprétée, invariablement, comme de la lâcheté ou du calcul cynique. Dans les deux cas, comme quelque chose de méprisable.
 
@@ -48,13 +48,13 @@ Les deux camps vous voient. Les deux camps vous jugent. Et les deux camps conclu
 
 ### La théorie de l'engagement : prendre parti crée du lien
 
-Il y a une raison positive — pas seulement défensive — de choisir un camp. C'est ce que le psychologue Charles Kiesler appelle la théorie de l'engagement[^3].
+Il y a une raison positive (pas seulement défensive) de choisir un camp. C'est ce que le psychologue Charles Kiesler appelle la théorie de l'engagement[^3].
 
 [^3]: Kiesler, C. A. (1971). *The Psychology of Commitment: Experiments Linking Behavior to Belief*. New York: Academic Press.
 
 L'engagement dans une action crée un lien psychologique avec cette action et ses conséquences. Quand vous vous engagez publiquement pour un camp, vous créez un *lien* avec ce camp. Vous investissez votre réputation, votre crédibilité. Vous avez désormais intérêt à ce que ce camp réussisse.
 
-Et — c'est crucial — le camp le *sait*. Il sait que vous avez brûlé vos vaisseaux. Que vous ne pouvez plus changer facilement de côté. Cette connaissance crée de la *confiance*. Vous êtes devenu un allié fiable, non par vertu morale, mais par intérêt bien compris.
+Et (c'est crucial) le camp le *sait*. Il sait que vous avez brûlé vos vaisseaux. Que vous ne pouvez plus changer facilement de côté. Cette connaissance crée de la *confiance*. Vous êtes devenu un allié fiable, non par vertu morale, mais par intérêt bien compris.
 
 La neutralité, elle, ne crée aucun lien. Vous restez un agent libre. Ce qui signifie : un agent potentiellement volatile, imprévisible, non fiable. Personne ne construit de plan sur le soutien d'un neutre. Parce que le neutre peut toujours changer d'avis au dernier moment.
 
@@ -64,7 +64,7 @@ Résultat : même si vous finissez par choisir un camp après avoir été neutre
 
 **En entreprise**, quand deux factions s'affrontent pour une décision stratégique (fusionner deux départements ? pivoter vers un nouveau marché ? promouvoir tel ou tel dirigeant ?), ne restez pas silencieux « en attendant de voir ».
 
-Prenez position. Argumentez. Défendez publiquement votre choix. Si votre camp gagne, vous serez récompensé — non pas par reconnaissance morale, mais parce qu'on vous considérera comme un allié fiable. Si votre camp perd, vous serez respecté pour avoir eu le courage de vos convictions. Le camp gagnant saura que vous n'êtes pas un opportuniste qui change de veste selon le vent.
+Prenez position. Argumentez. Défendez publiquement votre choix. Si votre camp gagne, vous serez récompensé (non pas par reconnaissance morale, mais parce qu'on vous considérera comme un allié fiable). Si votre camp perd, vous serez respecté pour avoir eu le courage de vos convictions. Le camp gagnant saura que vous n'êtes pas un opportuniste qui change de veste selon le vent.
 
 Le neutre, lui, sera oublié par le gagnant (« On n'a pas besoin de lui, il ne nous a pas aidés ») et méprisé par le perdant (« Il nous a lâchés quand on avait besoin de soutien »).
 
@@ -102,7 +102,7 @@ Machiavel cite un ambassadeur romain s'adressant aux Achéens, qui voulaient res
 
 Cette phrase contient toute la géométrie stratégique de la neutralité. Le neutre n'est pas hors du jeu. Il *est* le jeu. Il est la récompense que les belligérants se disputent.
 
-Parce que les ressources du neutre — son territoire, ses armées, son soutien économique — sont disponibles. Le vainqueur les prendra. Non par magnanimité, mais par logique : pourquoi laisser au neutre ses ressources quand on peut les saisir pour consolider sa victoire ?
+Parce que les ressources du neutre 5son territoire, ses armées, son soutien économique° sont disponibles. Le vainqueur les prendra. Non par magnanimité, mais par logique : pourquoi laisser au neutre ses ressources quand on peut les saisir pour consolider sa victoire ?
 
 Le neutre se croit hors du conflit. En réalité, il en est l'*enjeu*. Et les enjeux, dans les guerres, ne choisissent pas leur destin. Ils subissent celui que le vainqueur leur impose.
 
@@ -114,7 +114,7 @@ Y a-t-il des cas où la neutralité fonctionne ? Oui, mais ils sont rares et sp�
 
 La Suisse a réussi une neutralité durable. Comment ? En étant *armée jusqu'aux dents* et en occupant une position géographique stratégique. La neutralité suisse n'est pas de la faiblesse affichée. C'est de la force qui s'abstient. C'est une neutralité *coûteuse* : chaque citoyen suisse fait son service militaire, le pays est hérissé de fortifications, l'armée est redoutable.
 
-Le message implicite : « Nous ne choisirons pas votre camp. Mais si vous nous attaquez, le coût sera prohibitif. » C'est une forme de neutralité *armée*, qui n'a rien à voir avec la neutralité machiavélienne qu'il condamne — celle du faible qui espère passer entre les gouttes.
+Le message implicite : « Nous ne choisirons pas votre camp. Mais si vous nous attaquez, le coût sera prohibitif. » C'est une forme de neutralité *armée*, qui n'a rien à voir avec la neutralité machiavélienne qu'il condamne, celle du faible qui espère passer entre les gouttes.
 
 De même, certains pays (Singapour, les Émirats) maintiennent une neutralité relative dans les conflits régionaux en étant *indispensables* aux deux camps. Leur neutralité n'est pas de l'abstention. C'est de l'*équidistance stratégique* : ils commercent avec tout le monde, accueillent les capitaux de tous, refusent de s'aligner sur quiconque.
 
@@ -129,7 +129,7 @@ Machiavel ne condamne pas cette forme de neutralité. Il condamne la neutralité
 
 ### Le courage de l'engagement
 
-Il y a, au fond, une leçon morale — presque existentialiste — dans ce principe machiavélien. Choisir, c'est s'exposer. C'est risquer de se tromper. C'est accepter que l'histoire vous jugera sur ce choix.
+Il y a, au fond, une leçon morale (presque existentialiste) dans ce principe machiavélien. Choisir, c'est s'exposer. C'est risquer de se tromper. C'est accepter que l'histoire vous jugera sur ce choix.
 
 Mais ne pas choisir, ce n'est pas éviter le jugement. C'est s'exposer à un jugement encore plus sévère : celui de n'avoir pas compté. D'avoir été présent sans peser. D'avoir vécu sans s'engager.
 

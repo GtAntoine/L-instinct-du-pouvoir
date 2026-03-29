@@ -1,10 +1,10 @@
 # PRINCIPE DIX-HUITIÈME
 ## SAISIR LES OCCASIONS, EXPLOITER LES CRISES
 
-> *« Les hommes sages doivent toujours prendre les chemins battus par les grands hommes et imiter ceux qui ont été les plus excellents, afin que si leur vertu n'y atteint pas, au moins elle en rende quelque odeur. Ils doivent faire comme ces archers prudents qui, sachant jusqu'où va la force de leur arc et voyant que la cible est trop lointaine, visent beaucoup plus haut que le but, non pour que leur flèche atteigne cette hauteur, mais afin que, par ce moyen, elle arrive à la cible. »*
+> *« Les hommes marchent presque toujours dans des sentiers déjà battus ; presque toujours ils agissent par imitation. Ils doivent donc prendre pour guides et pour modèles les plus grands personnages, afin que, même en ne s'élevant pas au même degré de grandeur et de gloire, ils puissent en reproduire au moins le parfum. Ils doivent faire comme ces archers prudents qui, jugeant que le but proposé est au-delà de la portée de leur arc et de leurs forces, visent encore plus loin, pour que leur flèche arrive au point qu'ils désirent atteindre. »*
 > — *Le Prince*, chapitre VI
 
-> *« Les occasions rendent les hommes prospères ; mais il faut aussi avoir de la vertu pour en profiter. »*
+> *« Le bonheur de ces grands hommes naquit donc des occasions ; mais ce fut par leur habileté qu'ils surent les connaître et les mettre à profit. »*
 > — *Le Prince*, chapitre VI
 
 ### L'œil qui voit et la main qui saisit
@@ -13,7 +13,7 @@ Il y a une différence fondamentale entre ceux qui réussissent et ceux qui vég
 
 Machiavel observe que l'histoire est pleine d'occasions manquées. Des moments où tout pouvait basculer. Des fenêtres qui s'ouvrent brièvement puis se referment. Les grands hommes sont ceux qui voient ces fenêtres et sautent au travers avant qu'elles ne se referment.
 
-Les autres — aussi compétents soient-ils — passent à côté. Soit ils ne voient pas l'occasion (aveuglement). Soit ils la voient mais hésitent (paralysie décisionnelle). Soit ils décident trop tard (l'occasion est déjà partie).
+Les autres (aussi compétents soient-ils) passent à côté. Soit ils ne voient pas l'occasion (aveuglement). Soit ils la voient mais hésitent (paralysie décisionnelle). Soit ils décident trop tard (l'occasion est déjà partie).
 
 Le résultat est le même : ils restent dans la médiocrité pendant que les opportunistes s'envolent. Non par injustice cosmique, mais par simple mécanique : le pouvoir va à ceux qui savent le saisir quand il passe à portée.
 
@@ -27,9 +27,9 @@ Les neurosciences modernes ont découvert quelque chose de troublant : notre cer
 
 L'expérience du gorille invisible est emblématique. On demande à des sujets de compter les passes de ballon dans une vidéo. Pendant la vidéo, un homme déguisé en gorille traverse l'écran, se frappe la poitrine, et sort. Résultat : 50 % des sujets ne voient *pas* le gorille. Ils sont tellement concentrés sur les passes qu'ils ne remarquent pas un gorille de deux mètres qui leur fait coucou.
 
-C'est le phénomène de *cécité attentionnelle*. Notre attention est limitée. Nous ne voyons que ce que nous cherchons activement. Le reste — même spectaculaire — nous échappe.
+C'est le phénomène de *cécité attentionnelle*. Notre attention est limitée. Nous ne voyons que ce que nous cherchons activement. Le reste (même spectaculaire) nous échappe.
 
-Appliqué au principe machiavélien : les occasions sont partout. Mais nous ne les voyons pas. Parce que nous sommes focalisés sur autre chose. Sur nos routines, nos plans, nos attentes. L'occasion — le gorille — passe devant nous. Nous ne la voyons pas. Elle disparaît.
+Appliqué au principe machiavélien : les occasions sont partout. Mais nous ne les voyons pas. Parce que nous sommes focalisés sur autre chose. Sur nos routines, nos plans, nos attentes. L'occasion (le gorille) passe devant nous. Nous ne la voyons pas. Elle disparaît.
 
 Les opportunistes machiavéliens ont développé un radar mental différent. Ils ne se concentrent pas uniquement sur l'exécution de leurs plans. Ils *scannent* activement l'environnement pour des anomalies, des déviations, des ouvertures. Ils cherchent ce qui ne devrait pas être là. Et quand ils le trouvent, ils arrêtent leur plan et sautent sur l'occasion.
 
@@ -39,7 +39,7 @@ C'est une discipline mentale. Pas un talent inné. On peut l'apprendre. Mais ça
 
 Louis Pasteur disait : « Le hasard ne favorise que les esprits préparés. » C'est une reformulation parfaite du principe machiavélien.
 
-Les occasions ne tombent pas du ciel également distribuées. Elles apparaissent plus souvent — ou sont plus visibles — pour ceux qui ont construit l'infrastructure mentale et matérielle pour les saisir.
+Les occasions ne tombent pas du ciel également distribuées. Elles apparaissent plus souvent (ou sont plus visibles) pour ceux qui ont construit l'infrastructure mentale et matérielle pour les saisir.
 
 Exemple : Alexander Fleming découvre la pénicilline par accident. Une boîte de Petri est contaminée par une moisissure qui tue les bactéries. Coup de chance ? Oui. Mais Fleming était *préparé* à reconnaître cette anomalie comme significative. Un chercheur moins compétent aurait jeté la boîte contaminée et continué son travail. Fleming voit l'occasion et passe les années suivantes à l'exploiter.
 
@@ -53,7 +53,7 @@ L'occasion seule ne suffit pas. La virtù seule ne suffit pas non plus. Il faut 
 
 Winston Churchill a passé les années 1930 dans le désert politique. Considéré comme un has-been, un belliciste dépassé, il n'occupait aucun poste important. Puis vient 1940. La France tombe. Hitler domine l'Europe. La Grande-Bretagne est au bord du gouffre.
 
-Et soudain, Churchill redevient indispensable. Précisément parce qu'il est belliciste. Précisément parce qu'il voit Hitler comme une menace existentielle depuis des années. Précisément parce que son tempérament — inflexible, dramatique, combatif — correspond exactement à ce dont la Grande-Bretagne a besoin en cet instant.
+Et soudain, Churchill redevient indispensable. Précisément parce qu'il est belliciste. Précisément parce qu'il voit Hitler comme une menace existentielle depuis des années. Précisément parce que son tempérament (inflexible, dramatique, combatif) correspond exactement à ce dont la Grande-Bretagne a besoin en cet instant.
 
 La crise n'a pas créé Churchill. Mais elle a créé les *conditions* dans lesquelles les qualités de Churchill devenaient des atouts plutôt que des défauts. En temps de paix, son bellicisme était un problème. En temps de guerre existentielle, c'était un salut.
 
@@ -145,7 +145,7 @@ Napoléon est tombé finalement. Mais il a dominé l'Europe pendant quinze ans e
 
 ### Le piège du FOMO : ne pas confondre occasion et distraction
 
-Attention toutefois. Il existe un danger dans la culture de l'opportunisme : le *FOMO* (Fear of Missing Out) — la peur de rater une occasion.
+Attention toutefois. Il existe un danger dans la culture de l'opportunisme : le *FOMO* (Fear of Missing Out) (la peur de rater une occasion).
 
 Cette peur peut pousser à sauter sur *toutes* les occasions apparentes. Résultat : dispersion, incohérence, échec. Parce que la plupart des « occasions » ne sont pas des vraies occasions. Ce sont des distractions déguisées.
 
@@ -153,7 +153,7 @@ La différence entre l'opportuniste sage et l'opportuniste stupide : le sage a d
 
 L'opportuniste stupide voit une occasion et saute. Sans réfléchir. Résultat : il collectionne les demi-succès et les échecs, pendant que le sage accumule quelques grands succès concentrés.
 
-Machiavel ne dit pas : sautez sur tout ce qui bouge. Il dit : quand une *vraie* occasion surgit — une occasion qui combine potentiel élevé, timing optimal et adéquation avec votre virtù — alors n'hésitez pas. Sautez à pieds joints. Mobilisez tout. Ne laissez pas passer.
+Machiavel ne dit pas : sautez sur tout ce qui bouge. Il dit : quand une *vraie* occasion surgit (une occasion qui combine potentiel élevé, timing optimal et adéquation avec votre virtù) alors n'hésitez pas. Sautez à pieds joints. Mobilisez tout. Ne laissez pas passer.
 
 Mais avant de sauter, *assurez-vous* que c'est une vraie occasion. Pas un mirage. Pas une distraction. Une vraie fenêtre qui, si vous la saisissez, transformera votre trajectoire.
 
@@ -163,7 +163,7 @@ Ce que Machiavel nous enseigne dans ce principe, c'est que le succès n'est ni p
 
 Le hasard (l'occasion) surgit de manière imprévisible. Vous ne pouvez pas le forcer. Mais vous pouvez vous *préparer* pour qu'au moment où il surgit, vous soyez capable de le reconnaître et de l'exploiter.
 
-Le mérite (la virtù) ne suffit pas. Vous pouvez être brillant, travailleur, vertueux — si vous n'avez jamais d'occasion, vous ne réussirez jamais spectaculairement. Mais l'occasion seule ne suffit pas non plus. Elle passe devant tout le monde. Seuls ceux qui la voient et qui ont la capacité de la saisir en bénéficient.
+Le mérite (la virtù) ne suffit pas. Vous pouvez être brillant, travailleur, vertueux (si vous n'avez jamais d'occasion, vous ne réussirez jamais spectaculairement). Mais l'occasion seule ne suffit pas non plus. Elle passe devant tout le monde. Seuls ceux qui la voient et qui ont la capacité de la saisir en bénéficient.
 
 Les opportunistes machiavéliens combinent donc deux disciplines :
 
@@ -181,6 +181,6 @@ Les autres — aussi méritants soient-ils — restent sur le quai, regardant le
 
 Machiavel leur répondrait : parce que vous attendez qu'on vous donne votre tour. Le pouvoir ne se donne pas. Il se saisit. Et il ne se saisit que quand l'occasion surgit.
 
-Alors préparez-vous. Ouvrez les yeux. Et quand vous voyez la fenêtre s'ouvrir — sautez. Ne réfléchissez pas. Ne demandez pas la permission. Ne calculez pas toutes les conséquences.
+Alors préparez-vous. Ouvrez les yeux. Et quand vous voyez la fenêtre s'ouvrir, sautez. Ne réfléchissez pas. Ne demandez pas la permission. Ne calculez pas toutes les conséquences.
 
 Sautez. Parce que la fenêtre ne restera pas ouverte. Et ceux qui hésitent ne méritent pas de voler.

@@ -13,7 +13,7 @@ Il y a une illusion tenace dans la pensée humaniste : l'idée que la liberté, 
 
 Machiavel détruit cette illusion avec une brutalité clinique. La liberté n'est pas un état naturel. C'est un *état conquis et maintenu par la force*. La paix n'existe que parce que quelqu'un a la capacité de punir ceux qui la troublent. La justice ne règne que là où l'injuste craint des conséquences.
 
-Sans armes — c'est-à-dire sans capacité de coercition —, il n'y a ni liberté ni paix ni justice. Il y a seulement la tyrannie du plus fort, du plus violent, du plus impitoyable. Parce que dans un monde sans force organisée, la seule loi est celle de la jungle.
+Sans armes, c'est-à-dire sans capacité de coercition, il n'y a ni liberté ni paix ni justice. Il y a seulement la tyrannie du plus fort, du plus violent, du plus impitoyable. Parce que dans un monde sans force organisée, la seule loi est celle de la jungle.
 
 Ce n'est pas beau. C'est aussi, observe Machiavel, la vérité effective de la chose. Et le prince (ou l'État, ou l'individu) qui refuse de le reconnaître finit esclave de ceux qui l'ont compris.
 
@@ -32,13 +32,13 @@ Sans ce monopole, il n'y a pas d'État. Il y a seulement des bandes armées en c
 
 C'est pour cela que Machiavel insiste tant sur les « bonnes armes propres ». Un prince qui ne contrôle pas sa propre force armée ne contrôle rien. Il dépend de mercenaires (qui le trahiront) ou d'auxiliaires (qui le domineront). Il n'a pas le monopole de la violence. Donc il n'est pas vraiment prince. Il est un figurehead, une marionnette.
 
-Seul celui qui possède des armes propres — armée composée de ses citoyens, loyale à lui, dépendante de lui — possède vraiment le pouvoir. Parce que lui seul peut imposer sa volonté quand la persuasion échoue. Et la persuasion échoue toujours, tôt ou tard.
+Seul celui qui possède des armes propres (armée composée de ses citoyens, loyale à lui, dépendante de lui) possède vraiment le pouvoir. Parce que lui seul peut imposer sa volonté quand la persuasion échoue. Et la persuasion échoue toujours, tôt ou tard.
 
 ### L'échec des mercenaires : quand la violence est privatisée
 
 Machiavel consacre plusieurs chapitres du *Prince* à un thème obsessionnel : les mercenaires sont inutiles et dangereux. Pourquoi cette obsession ?
 
-Parce qu'il a vu, de ses propres yeux, les cités italiennes détruites par leur dépendance aux mercenaires. Les *condottieri* — capitaines mercenaires — vendaient leurs services au plus offrant. Résultat :
+Parce qu'il a vu, de ses propres yeux, les cités italiennes détruites par leur dépendance aux mercenaires. Les *condottieri* (capitaines mercenaires) vendaient leurs services au plus offrant. Résultat :
 - En temps de paix, ils coûtaient une fortune
 - En temps de guerre, ils se battaient mollement (pourquoi risquer sa vie pour un employeur temporaire ?)
 - Pire : ils changeaient de camp si l'ennemi offrait plus, ou ils se retournaient contre leur employeur
@@ -59,9 +59,9 @@ Pourquoi ? Parce que la loyauté des mercenaires est vénale (ils se battent pou
 
 Résultat : ils se battent plus dur. Ils désertent moins. Ils ne trahissent pas (sauf circonstances extrêmes). Une armée de citoyens moyennement entraînés mais motivés bat souvent une armée de professionnels bien entraînés mais mercenaires.
 
-Machiavel cite Romulus, Lycurgue, Moïse — tous ont bâti leurs États sur des armées citoyennes. Rome a conquis le monde avec des légions composées de citoyens romains (pas de mercenaires avant la décadence tardive). Sparte tenait avec ses homoioi (égaux), citoyens-guerriers. Israël a survécu grâce aux tribus armées de l'Exode.
+Machiavel cite Romulus, Lycurgue, Moïse : tous ont bâti leurs États sur des armées citoyennes. Rome a conquis le monde avec des légions composées de citoyens romains (pas de mercenaires avant la décadence tardive). Sparte tenait avec ses homoioi (égaux), citoyens-guerriers. Israël a survécu grâce aux tribus armées de l'Exode.
 
-À l'inverse, les États qui ont externalisé la violence — Carthage avec ses mercenaires, Venise avec ses condottieri — ont fini écrasés par des ennemis ayant des armées propres.
+À l'inverse, les États qui ont externalisé la violence (Carthage avec ses mercenaires, Venise avec ses condottieri) ont fini écrasés par des ennemis ayant des armées propres.
 
 La leçon : la violence privatisée ou externalisée est structurellement fragile. La violence citoyenne est structurellement robuste. Non par vertu morale, mais par alignement d'intérêts.
 
@@ -141,7 +141,7 @@ Les sociétés qui l'oublient apprennent la leçon douloureusement. Les pacifist
 
 Le prince machiavélien (ou l'État, ou l'individu lucide) reconnaît cette réalité. Il ne se réjouit pas de devoir porter des armes. Mais il sait que sans elles, toutes ses autres vertus seront vaines. La culture, la richesse, la morale — tout cela ne vaut que si vous pouvez le défendre.
 
-Donc : ayez de bonnes armes. Des armes *propres* — loyales à vous, dépendantes de vous, partageant vos intérêts. Pas des mercenaires qui vous trahiront. Pas des auxiliaires qui vous domineront. Vos armes. Votre force. Votre garantie de liberté.
+Donc : ayez de bonnes armes. Des armes *propres* (loyales à vous, dépendantes de vous, partageant vos intérêts). Pas des mercenaires qui vous trahiront. Pas des auxiliaires qui vous domineront. Vos armes. Votre force. Votre garantie de liberté.
 
 Cinq siècles après Machiavel, cette leçon reste d'une actualité brutale. Les États qui ont négligé leur défense (croyant que l'ère des guerres était finie) se retrouvent vulnérables (Ukraine pré-2014, pays baltes sans l'OTAN). Les États qui maintiennent leur capacité militaire (Israël, Singapour, Suisse) gardent leur souveraineté même dans des environnements hostiles.
 

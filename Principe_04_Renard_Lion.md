@@ -8,7 +8,7 @@
 
 Machiavel, dans ce passage célèbre, recourt à une image empruntée aux bestiaires médiévaux : le prince doit combiner les qualités de deux animaux. Mais cette métaphore zoologique n'a rien d'une fantaisie littéraire. C'est une théorie de l'intelligence sociale, formulée avec une économie de moyens qui force l'admiration.
 
-Le renard détecte les pièges. Le lion inspire la terreur. Ni l'un ni l'autre ne suffit seul. Le pur renard — celui qui ne mise que sur la ruse, la manipulation, l'habileté tactique — finit par être démasqué. Sa réputation de fourbe le précède, et bientôt personne ne lui fait plus confiance. Le pur lion — celui qui ne connaît que la force, l'intimidation, la domination brutale — se fait contourner, piéger, neutraliser par des adversaires plus subtils.
+Le renard détecte les pièges. Le lion inspire la terreur. Ni l'un ni l'autre ne suffit seul. Le pur renard (celui qui ne mise que sur la ruse, la manipulation, l'habileté tactique) finit par être démasqué. Sa réputation de fourbe le précède, et bientôt personne ne lui fait plus confiance. Le pur lion (celui qui ne connaît que la force, l'intimidation, la domination brutale) se fait contourner, piéger, neutraliser par des adversaires plus subtils.
 
 Ce qu'il faut, c'est la *combinaison*. Savoir quand rugir et quand se glisser dans l'ombre. Quand affronter directement et quand tisser des alliances. Quand imposer par la force et quand persuader par la finesse. C'est cela, l'intelligence machiavélienne — et c'est aussi, découvre-t-on aujourd'hui, ce qui a façonné l'évolution du cerveau humain.
 
@@ -24,7 +24,7 @@ La preuve ? Robin Dunbar a montré que chez les primates, la taille du néocorte
 
 Autrement dit, nous avons un gros cerveau principalement pour être des *renards* — pour détecter les intentions cachées, anticiper les trahisons, former des alliances, manipuler les impressions, mentir de manière convaincante et détecter les mensonges d'autrui. L'intelligence technique est venue après, comme un bonus. L'intelligence sociale est venue d'abord, comme une nécessité de survie.
 
-Mais attention : l'intelligence sociale pure — le machiavélisme psychologique pur — ne suffit pas. Ceux qui ne misent que sur la manipulation finissent isolés. Il faut aussi la capacité de dominer, d'intimider, de punir — les qualités du lion. C'est la *combinaison* des deux qui fait les leaders durables.
+Mais attention : l'intelligence sociale pure (le machiavélisme psychologique pur) ne suffit pas. Ceux qui ne misent que sur la manipulation finissent isolés. Il faut aussi la capacité de dominer, d'intimider, de punir — les qualités du lion. C'est la *combinaison* des deux qui fait les leaders durables.
 
 ### La triade noire et le leadership
 
@@ -34,11 +34,11 @@ Les psychologues Delroy Paulhus et Kevin Williams ont identifié ce qu'ils appel
 
 Pourquoi ? Parce que le narcissisme donne l'audace de se projeter en avant. Le machiavélisme donne la flexibilité tactique pour naviguer dans la politique organisationnelle. La psychopathie subclinique donne l'insensibilité nécessaire pour prendre des décisions difficiles sans être paralysé par la culpabilité.
 
-Mais — et c'est crucial — l'excès de ces traits est destructeur. Le narcissisme extrême mène à l'arrogance aveugle. Le machiavélisme extrême mène à l'isolement (personne ne fait confiance au manipulateur connu). La psychopathie extrême mène à la criminalité ou à la destruction organisationnelle.
+Mais (et c'est crucial) l'excès de ces traits est destructeur. Le narcissisme extrême mène à l'arrogance aveugle. Le machiavélisme extrême mène à l'isolement (personne ne fait confiance au manipulateur connu). La psychopathie extrême mène à la criminalité ou à la destruction organisationnelle.
 
 Ce qui fonctionne, c'est le *dosage*. Un peu de narcissisme pour oser. Un peu de machiavélisme pour manœuvrer. Un peu de psychopathie pour trancher. Trop, et vous devenez un tyran haï. Pas assez, et vous devenez une victime exploitée.
 
-C'est exactement ce que dit Machiavel avec sa métaphore animale. Le renard pur est le machiavélisme extrême — efficace à court terme, désastreux à long terme. Le lion pur est la domination brutale — impressionnante mais prévisible et donc vulnérable. La combinaison des deux, dosée avec précision, est l'intelligence politique.
+C'est exactement ce que dit Machiavel avec sa métaphore animale. Le renard pur est le machiavélisme extrême (efficace à court terme, désastreux à long terme. Le lion pur est la domination brutale) impressionnante mais prévisible et donc vulnérable. La combinaison des deux, dosée avec précision, est l'intelligence politique.
 
 ### Les stratégies de compétition : affrontement et dérogation
 
@@ -56,15 +56,15 @@ Machiavel, encore une fois, avait deviné ce que la science ne formaliserait que
 
 ### La théorie de l'esprit : lire dans les pensées d'autrui
 
-Être un renard, dans le vocabulaire machiavélien, c'est maîtriser ce que les psychologues appellent la « théorie de l'esprit » — la capacité de comprendre que les autres ont des croyances, des désirs et des intentions différents des nôtres[^5].
+Être un renard, dans le vocabulaire machiavélien, c'est maîtriser ce que les psychologues appellent la « théorie de l'esprit » (la capacité de comprendre que les autres ont des croyances, des désirs et des intentions différents des nôtres[^5]).
 
 [^5]: Premack, D., & Woodruff, G. (1978). "Does the Chimpanzee Have a Theory of Mind?" *Behavioral and Brain Sciences*, 1(4), 515-526.
 
-Cette capacité apparaît chez les enfants humains vers l'âge de quatre ans. Avant cet âge, l'enfant ne comprend pas qu'autrui peut avoir une *fausse croyance* — que quelqu'un peut croire quelque chose qui n'est pas vrai, et agir en fonction de cette croyance. Après quatre ans, l'enfant comprend cela, et son monde social devient infiniment plus complexe. Il peut mentir efficacement (en comprenant ce que l'autre croit). Il peut détecter le mensonge (en comparant ce que l'autre dit à ce qu'il devrait savoir). Il peut manipuler (en modifiant les croyances d'autrui).
+Cette capacité apparaît chez les enfants humains vers l'âge de quatre ans. Avant cet âge, l'enfant ne comprend pas qu'autrui peut avoir une *fausse croyance* (que quelqu'un peut croire quelque chose qui n'est pas vrai, et agir en fonction de cette croyance). Après quatre ans, l'enfant comprend cela, et son monde social devient infiniment plus complexe. Il peut mentir efficacement (en comprenant ce que l'autre croit). Il peut détecter le mensonge (en comparant ce que l'autre dit à ce qu'il devrait savoir). Il peut manipuler (en modifiant les croyances d'autrui).
 
 Le renard de Machiavel est quelqu'un qui excelle dans cette théorie de l'esprit. Il anticipe ce que l'autre pense. Il détecte les pièges en se mettant à la place du poseur de pièges. Il construit ses mensonges en calculant ce que l'autre peut vérifier. Il forme ses alliances en comprenant les motivations cachées de chacun.
 
-Le lion, lui, n'a pas besoin de théorie de l'esprit sophistiquée. Il impose par la force. Mais le lion sans renard est prévisible — et donc vulnérable à celui qui le comprend mieux qu'il ne se comprend lui-même.
+Le lion, lui, n'a pas besoin de théorie de l'esprit sophistiquée. Il impose par la force. Mais le lion sans renard est prévisible et donc vulnérable à celui qui le comprend mieux qu'il ne se comprend lui-même.
 
 ### Applications contemporaines : l'art de l'alternance
 
@@ -114,12 +114,12 @@ La bonne formule est : parole douce, action dure. Le velours de la voix et l'aci
 
 ### L'enseignement du centaure
 
-Machiavel termine son chapitre XVIII par une référence mythologique : le prince doit être éduqué par Chiron, le centaure — mi-homme, mi-cheval — qui dans la mythologie grecque fut le précepteur d'Achille, d'Hercule et de Jason.
+Machiavel termine son chapitre XVIII par une référence mythologique : le prince doit être éduqué par Chiron, le centaure (mi-homme, mi-cheval) qui dans la mythologie grecque fut le précepteur d'Achille, d'Hercule et de Jason.
 
-Pourquoi le centaure ? Parce que le centaure symbolise la double nature : l'intelligence humaine et la force animale. Le prince doit maîtriser les deux. S'il n'est qu'humain — que raison, que calcul, que diplomatie —, il sera exploité par ceux qui recourent aussi à la force. S'il n'est qu'animal — que force, qu'instinct, que domination —, il sera manipulé par ceux qui comprennent mieux le jeu social.
+Pourquoi le centaure ? Parce que le centaure symbolise la double nature : l'intelligence humaine et la force animale. Le prince doit maîtriser les deux. S'il n'est qu'humain (que raison, que calcul, que diplomatie), il sera exploité par ceux qui recourent aussi à la force. S'il n'est qu'animal (que force, qu'instinct, que domination), il sera manipulé par ceux qui comprennent mieux le jeu social.
 
 Le centaure enseigne l'unité des contraires. Non pas l'alternance maladroite entre deux modes, mais la *fusion* de deux natures en une seule identité stable. Le leader accompli n'est pas tantôt renard, tantôt lion. Il est les deux en permanence — capable de ruser *et* de rugir, selon ce que la situation exige.
 
-C'est un idéal difficile. Peut-être impossible. Mais c'est vers cet idéal que tend toute intelligence politique véritable. Et ceux qui s'en approchent — qui cultivent à la fois la subtilité du renard et la force du lion — sont ceux qui durent quand les purs renards sont démasqués et les purs lions sont piégés.
+C'est un idéal difficile. Peut-être impossible. Mais c'est vers cet idéal que tend toute intelligence politique véritable. Et ceux qui s'en approchent (qui cultivent à la fois la subtilité du renard et la force du lion) sont ceux qui durent quand les purs renards sont démasqués et les purs lions sont piégés.
 
 Machiavel ne demande pas l'impossible. Il demande l'excellence. Et l'excellence, en politique comme en toute chose, est toujours une combinaison de qualités contradictoires tenues en équilibre instable. C'est inconfortable. C'est aussi ce qui sépare les leaders médiocres des leaders exceptionnels.

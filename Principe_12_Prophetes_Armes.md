@@ -6,11 +6,11 @@
 
 ### Savonarole et le prophète désarmé
 
-En 1494, un moine dominicain enflamme Florence. Jérôme Savonarole prêche la pénitence, dénonce la corruption, prophétise la colère divine. Le peuple, fasciné, le suit. Il chasse les Médicis. Florence devient une république théocratique. On brûle les vanités — les livres, les peintures, les bijoux — sur d'immenses bûchers publics.
+En 1494, un moine dominicain enflamme Florence. Jérôme Savonarole prêche la pénitence, dénonce la corruption, prophétise la colère divine. Le peuple, fasciné, le suit. Il chasse les Médicis. Florence devient une république théocratique. On brûle les vanités (les livres, les peintures, les bijoux) sur d'immenses bûchers publics.
 
 Pendant quatre ans, Savonarole règne par la seule force de sa parole. Pas d'armée. Pas de gardes. Pas de pouvoir coercitif. Juste le verbe, l'éloquence, la conviction.
 
-Puis le charme se rompt. Les Florentins se lassent de l'austérité. Le pape excommunie Savonarole. Les anciens partisans reculent. En 1498, le prophète est arrêté, torturé, pendu, puis brûlé — à l'endroit même où il avait fait brûler les vanités.
+Puis le charme se rompt. Les Florentins se lassent de l'austérité. Le pape excommunie Savonarole. Les anciens partisans reculent. En 1498, le prophète est arrêté, torturé, pendu, puis brûlé (à l'endroit même où il avait fait brûler les vanités).
 
 Machiavel, qui a assisté à toute cette séquence, en tire une leçon brutale : le prophète désarmé finit toujours mal. Parce que la persuasion est fragile. L'adhésion populaire est volatile. Quand la foi vacille, il n'y a rien pour la soutenir. Le prophète s'effondre.
 
@@ -28,9 +28,9 @@ En 1959, deux psychologues sociaux, John French et Bertram Raven, formalisent un
 4. **Pouvoir de référence** : charisme, identification
 5. **Pouvoir d'expertise** : compétence perçue
 
-Le prophète désarmé — Savonarole, Gandhi sans l'appui britannique paradoxal, les révolutionnaires idéalistes — ne dispose que du pouvoir de référence. Les gens le suivent parce qu'ils l'admirent, parce qu'ils croient en lui, parce qu'ils s'identifient à son message.
+Le prophète désarmé (Savonarole, Gandhi sans l'appui britannique paradoxal, les révolutionnaires idéalistes) ne dispose que du pouvoir de référence. Les gens le suivent parce qu'ils l'admirent, parce qu'ils croient en lui, parce qu'ils s'identifient à son message.
 
-C'est puissant. Mais c'est *fragile*. Parce que le pouvoir de référence dépend entièrement de la perception subjective des suiveurs. Dès que cette perception change — et elle change toujours, note Machiavel, car « les peuples sont naturellement inconstants » — le pouvoir s'évanouit.
+C'est puissant. Mais c'est *fragile*. Parce que le pouvoir de référence dépend entièrement de la perception subjective des suiveurs. Dès que cette perception change (et elle change toujours, note Machiavel, car « les peuples sont naturellement inconstants »), le pouvoir s'évanouit.
 
 Le prophète armé, lui, cumule pouvoir de référence *et* pouvoir coercitif. Tant que les gens croient, c'est le charisme qui opère. Quand ils cessent de croire, c'est la force qui prend le relais. Le leader reste en place. Pas par amour, mais par crainte.
 
@@ -42,7 +42,7 @@ Max Weber, sociologue allemand du début du XX<sup>e</sup> siècle, a consacré 
 
 [^2]: Weber, M. (1922/1978). *Economy and Society*. Berkeley, CA: University of California Press.
 
-Pourquoi ? Parce qu'il repose sur des qualités perçues comme exceptionnelles, voire surnaturelles. Tant que le leader produit des "miracles" — victoires militaires, croissance économique, guérisons, prophéties réalisées — le charisme tient. Mais dès que les miracles s'arrêtent, le charisme s'effondre.
+Pourquoi ? Parce qu'il repose sur des qualités perçues comme exceptionnelles, voire surnaturelles. Tant que le leader produit des "miracles" (victoires militaires, croissance économique, guérisons, prophéties réalisées), le charisme tient. Mais dès que les miracles s'arrêtent, le charisme s'effondre.
 
 Weber note que les leaders charismatiques qui durent sont ceux qui "routinisent" leur charisme — qui le transforment en structures institutionnelles. Ils créent des bureaucraties, des lois, des armées, des rituels. Le charisme devient tradition. La personne devient institution.
 
@@ -50,7 +50,7 @@ C'est exactement ce que Machiavel recommande au prophète : ne comptez pas uniqu
 
 Moïse a reçu les Dix Commandements (charisme). Mais il a aussi organisé les tribus, établi des juges, créé un système légal (routinisation). Romulus a fondé Rome par un acte quasi-divin (charisme). Mais il a aussi créé le Sénat, les lois, l'armée (routinisation).
 
-Les prophètes qui ne routinisent pas — qui restent purs dans leur charisme désarmé — finissent comme Savonarole. Brûlés sur la place publique par ceux-là mêmes qui les adoraient.
+Les prophètes qui ne routinisent pas (qui restent purs dans leur charisme désarmé) finissent comme Savonarole. Brûlés sur la place publique par ceux-là mêmes qui les adoraient.
 
 ### La persuasion instable : le modèle de la vraisemblance d'élaboration
 
@@ -60,7 +60,7 @@ Les psychologues Richard Petty et John Cacioppo ont développé dans les années
 
 La **voie centrale** : l'auditeur analyse soigneusement les arguments, pèse les preuves, réfléchit. La persuasion qui passe par cette voie est *durable* mais *difficile* à obtenir.
 
-La **voie périphérique** : l'auditeur est influencé par des indices superficiels — le charisme de l'orateur, la beauté des images, l'émotion du moment. La persuasion qui passe par cette voie est *facile* à obtenir mais *fragile*.
+La **voie périphérique** : l'auditeur est influencé par des indices superficiels (le charisme de l'orateur, la beauté des images, l'émotion du moment). La persuasion qui passe par cette voie est *facile* à obtenir mais *fragile*.
 
 Le prophète désarmé persuade presque toujours par la voie périphérique. Ses discours enflammés, son aura mystique, l'émotion collective des foules — tout cela produit une adhésion immédiate mais superficielle. Dès que l'émotion retombe, dès que le charme se dissipe, l'adhésion s'évanouit.
 
@@ -70,7 +70,7 @@ C'est cynique. C'est aussi, malheureusement, une description exacte de la maniè
 
 ### Applications contemporaines : vision et exécution
 
-**En entrepreneuriat**, le principe machiavélien se traduit par la distinction entre vision et exécution. La vision — le discours inspirant du fondateur, la mission qui galvanise les premiers employés — c'est le prophète. L'exécution — les processus, les systèmes, le cash-flow, les contrats clients — c'est l'armée.
+**En entrepreneuriat**, le principe machiavélien se traduit par la distinction entre vision et exécution. La vision (le discours inspirant du fondateur, la mission qui galvanise les premiers employés) c'est le prophète. L'exécution (les processus, les systèmes, le cash-flow, les contrats clients) c'est l'armée.
 
 Les startups qui réussissent combinent les deux. Le fondateur inspire (prophète). Mais il construit aussi une infrastructure qui fonctionne même quand l'inspiration vacille (armée). Les employés peuvent perdre la foi dans la mission. Tant que les salaires tombent et que le produit fonctionne, ils restent.
 
@@ -100,19 +100,19 @@ Vous avez changé le comportement en changeant l'environnement. Le prophète arm
 
 Attention toutefois. Machiavel ne recommande pas de se passer du prophète. Il recommande d'armer le prophète. La nuance est capitale.
 
-Le leader qui ne repose que sur la coercition — dictateur brutal sans vision, manager autoritaire sans inspiration — peut tenir un temps par la peur. Mais il ne génère aucune adhésion positive, aucun surplus d'effort, aucune créativité. Les gens font le minimum pour éviter la punition. Dès que la surveillance se relâche, la transgression explose.
+Le leader qui ne repose que sur la coercition (dictateur brutal sans vision, manager autoritaire sans inspiration) peut tenir un temps par la peur. Mais il ne génère aucune adhésion positive, aucun surplus d'effort, aucune créativité. Les gens font le minimum pour éviter la punition. Dès que la surveillance se relâche, la transgression explose.
 
 À l'inverse, le leader qui combine vision *et* contrainte obtient quelque chose de plus puissant : une adhésion initiale fondée sur l'inspiration, consolidée ensuite par l'habitude et les structures.
 
-Les employés de SpaceX ou Tesla travaillent des heures folles. Pourquoi ? Parce qu'Elon Musk est un prophète (vision de Mars, de la transition énergétique). Mais aussi parce que les systèmes de l'entreprise — culture de la performance, pression des pairs, stock-options liées au succès — rendent difficile de ne pas s'engager à fond.
+Les employés de SpaceX ou Tesla travaillent des heures folles. Pourquoi ? Parce qu'Elon Musk est un prophète (vision de Mars, de la transition énergétique). Mais aussi parce que les systèmes de l'entreprise (culture de la performance, pression des pairs, stock-options liées au succès) rendent difficile de ne pas s'engager à fond.
 
 C'est du machiavélisme pur : le charisme attire. Les structures retiennent. Et ceux qui ne croient plus mais restent quand même (parce que leurs options financières valent potentiellement des millions) finissent souvent par réinvestir la mission. La contrainte douce produit l'adhésion.
 
 ### L'éthique du prophète armé : contrainte douce vs. terreur
 
-Il y a une ligne fine — mais réelle — entre armer le prophète et devenir un tyran. Machiavel ne la dessine pas explicitement. Mais la science moderne le fait.
+Il y a une ligne fine (mais réelle) entre armer le prophète et devenir un tyran. Machiavel ne la dessine pas explicitement. Mais la science moderne le fait.
 
-La contrainte *douce* — structures qui facilitent les bons comportements et compliquent les mauvais — est efficace et éthiquement défendable. Exemple : l'architecture de choix (*nudge*) de Thaler et Sunstein[^5]. Mettre les fruits à hauteur des yeux et les sucreries en hauteur dans une cafétéria change les comportements *sans* coercition violente.
+La contrainte *douce* (structures qui facilitent les bons comportements et compliquent les mauvais) est efficace et éthiquement défendable. Exemple : l'architecture de choix (*nudge*) de Thaler et Sunstein[^5]. Mettre les fruits à hauteur des yeux et les sucreries en hauteur dans une cafétéria change les comportements *sans* coercition violente.
 
 [^5]: Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. New Haven, CT: Yale University Press.
 
@@ -130,7 +130,7 @@ Il y a quelque chose de profondément inconfortable dans ce principe pour quicon
 
 Mais considérez l'alternative. Combien de mouvements magnifiques, portés par des prophètes inspirants, se sont effondrés dès que le prophète est mort ou que l'enthousiasme initial s'est érodé ?
 
-Le mouvement des droits civiques aux États-Unis a survécu parce qu'il ne reposait pas uniquement sur le charisme de Martin Luther King. Il s'est incarné dans des *lois* — Civil Rights Act, Voting Rights Act. Ces lois sont des "armes" au sens machiavélien. Elles forcent les comportements même quand plus personne ne vibre aux discours de King.
+Le mouvement des droits civiques aux États-Unis a survécu parce qu'il ne reposait pas uniquement sur le charisme de Martin Luther King. Il s'est incarné dans des *lois* : Civil Rights Act, Voting Rights Act. Ces lois sont des "armes" au sens machiavélien. Elles forcent les comportements même quand plus personne ne vibre aux discours de King.
 
 Sans ces lois, le mouvement aurait été un beau moment dans l'histoire, suivi d'un retour au statu quo ante. Avec ces lois, le changement est devenu irréversible. Pas parce que les cœurs ont changé (beaucoup n'ont pas changé). Mais parce que les structures ont changé.
 
@@ -142,12 +142,12 @@ Ce n'est pas renoncer à l'idéal. C'est le sécuriser contre l'érosion inévit
 
 Machiavel ne dit pas que le charisme est inutile. Il dit qu'il est *insuffisant*. Le prophète désarmé peut conquérir les cœurs. Mais il ne peut pas les garder. Parce que les cœurs sont volatiles.
 
-Le prophète armé conquiert les cœurs *et* construit les structures qui maintiendront les comportements même quand les cœurs se seront refroidis. Le charisme achète du temps — le temps nécessaire pour construire les structures. Les structures achètent de la durée — la capacité de survivre au-delà du charisme initial.
+Le prophète armé conquiert les cœurs *et* construit les structures qui maintiendront les comportements même quand les cœurs se seront refroidis. Le charisme achète du temps (le temps nécessaire pour construire les structures). Les structures achètent de la durée, la capacité de survivre au-delà du charisme initial.
 
 C'est moins romantique que l'idée du leader purement inspirant. C'est aussi infiniment plus réaliste.
 
-Les grands transformateurs de l'histoire — Moïse, Romulus, Lycurgue, Mahomet — étaient tous des prophètes armés. Leur vision a enflammé les foules. Mais leurs lois, leurs institutions, leurs armées ont fait que cette flamme ne s'est pas éteinte quand ils sont morts.
+Les grands transformateurs de l'histoire (Moïse, Romulus, Lycurgue, Mahomet) étaient tous des prophètes armés. Leur vision a enflammé les foules. Mais leurs lois, leurs institutions, leurs armées ont fait que cette flamme ne s'est pas éteinte quand ils sont morts.
 
-Les prophètes désarmés — aussi brillants, aussi vertueux — sont oubliés. Ou ils finissent brûlés sur la place publique.
+Les prophètes désarmés (aussi brillants, aussi vertueux) sont oubliés. Ou ils finissent brûlés sur la place publique.
 
 C'est tragique. C'est aussi la vérité effective de la chose. Et Machiavel, comme toujours, préfère la vérité effective aux imaginations consolantes.

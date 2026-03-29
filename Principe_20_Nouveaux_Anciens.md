@@ -1,21 +1,21 @@
 # PRINCIPE VINGTIÈME
 ## DANS LES ÉTATS NOUVEAUX, TOUT RÉINVENTER
 
-> *« Celui qui devient prince d'une cité ou d'un État, notamment s'il a de faibles fondations, et ne veut pas adopter soit la forme civile soit la forme tyrannique de gouvernement, trouvera le meilleur moyen de garder cette principauté à refaire tout à neuf. »*
+> *« Des États subitement formés sont comme toutes les choses qui, dans l'ordre de la nature, naissent et croissent trop promptement : ils ne peuvent avoir des racines assez profondes et des adhérences assez fortes pour que le premier orage ne les renverse point. »*
 > — *Le Prince*, chapitre VII
 
-> *« Dans les principautés nouvelles, les difficultés sont bien plus grandes. Si elle n'est pas entièrement nouvelle, mais comme un membre ajouté, alors les difficultés naissent d'une cause naturelle commune à toutes les principautés nouvelles : les hommes changent volontiers de maître, croyant améliorer leur sort. »*
+> *« Si elle n'est pas entièrement nouvelle, mais ajoutée comme un membre à une autre, il y a une première source de changement dans une difficulté naturelle inhérente à toutes les principautés nouvelles : c'est que les hommes aiment à changer de maître dans l'espoir d'améliorer leur sort. »*
 > — *Le Prince*, chapitre III
 
 ### La page blanche et le palimpseste
 
-Il y a deux types de pouvoir. Celui qui hérite d'une structure établie — institutions rodées, loyautés ancrées, traditions respectées. Et celui qui prend le pouvoir dans un contexte nouveau — conquête, révolution, création d'entreprise.
+Il y a deux types de pouvoir. Celui qui hérite d'une structure établie (institutions rodées, loyautés ancrées, traditions respectées). Et celui qui prend le pouvoir dans un contexte nouveau (conquête, révolution, création d'entreprise).
 
 Le premier type peut se contenter de gérer. Les structures portent. Les gens obéissent par habitude. L'inertie joue en faveur du prince.
 
 Le second type ne peut pas se contenter de gérer. Il n'y a rien à gérer. Les anciennes structures (si elles existent) sont loyales à l'ancien régime, pas au nouveau prince. Les nouvelles structures n'existent pas encore. Il faut tout créer. Tout imposer. Tout construire à partir de rien.
 
-Machiavel est brutal : dans les principautés nouvelles, *tout doit être refait à neuf*. Pas par idéologie. Par nécessité. Parce que les anciennes structures — même si elles fonctionnent bien techniquement — ne vous obéiront jamais vraiment. Elles restent loyales au passé. Elles saboteront, résisteront, attendront votre chute pour revenir à l'ancien ordre.
+Machiavel est brutal : dans les principautés nouvelles, *tout doit être refait à neuf*. Pas par idéologie. Par nécessité. Parce que les anciennes structures (même si elles fonctionnent bien techniquement) ne vous obéiront jamais vraiment. Elles restent loyales au passé. Elles saboteront, résisteront, attendront votre chute pour revenir à l'ancien ordre.
 
 La seule solution : les détruire. Et construire de nouvelles structures, composées de gens qui vous doivent tout. Qui ne connaissent que votre règne. Qui n'ont aucune nostalgie de l'ancien temps parce qu'ils n'en ont pas profité.
 
@@ -23,7 +23,7 @@ C'est violent. C'est aussi, observe Machiavel, la seule manière de stabiliser u
 
 ### La théorie du path dependence : pourquoi les institutions résistent
 
-Les économistes institutionnels ont donné un nom à ce phénomène : le *path dependence* — la dépendance au sentier[^1]. Une fois qu'une institution prend un certain chemin, elle tend à rester sur ce chemin, même si d'autres chemins seraient objectivement meilleurs.
+Les économistes institutionnels ont donné un nom à ce phénomène : le *path dependence* (la dépendance au sentier[^1]). Une fois qu'une institution prend un certain chemin, elle tend à rester sur ce chemin, même si d'autres chemins seraient objectivement meilleurs.
 
 [^1]: Arthur, W. B. (1989). "Competing Technologies, Increasing Returns, and Lock-In by Historical Events." *The Economic Journal*, 99(394), 116-131.
 
@@ -47,7 +47,7 @@ Et dès que vous montrez une faiblesse, dès qu'une opportunité de restauration
 
 Machiavel raconte l'histoire de princes qui ont gardé les ministres et les généraux de leurs prédécesseurs par prudence (« Ce sont des gens expérimentés, pourquoi les remplacer ? »). Résultat presque invariable : ces ministres ont comploté, saboté, ou simplement mal servi. Non par incompétence. Par manque de loyauté profonde.
 
-À l'inverse, les princes qui ont balayé complètement les anciennes élites et promu de nouveaux hommes — souvent moins compétents au début — ont obtenu une loyauté inébranlable. Ces nouveaux hommes savent qu'ils doivent *tout* au prince. Leur position, leur richesse, leur statut — tout vient du nouveau régime. Si le régime tombe, ils tombent avec. Donc ils le défendent avec une énergie que les anciens serviteurs n'auraient jamais eue.
+À l'inverse, les princes qui ont balayé complètement les anciennes élites et promu de nouveaux hommes (souvent moins compétents au début) ont obtenu une loyauté inébranlable. Ces nouveaux hommes savent qu'ils doivent *tout* au prince. Leur position, leur richesse, leur statut — tout vient du nouveau régime. Si le régime tombe, ils tombent avec. Donc ils le défendent avec une énergie que les anciens serviteurs n'auraient jamais eue.
 
 C'est la différence entre la loyauté contractuelle (« Je te sers parce que tu me paies ») et la loyauté existentielle (« Je te sers parce que sans toi je ne suis rien »). La seconde est infiniment plus fiable.
 
@@ -77,15 +77,15 @@ Et que font les bolcheviks ? Exactement ce que Machiavel recommande. Ils détrui
 
 C'est monstrueusement violent. Mais d'un point de vue purement machiavélien, c'est efficace. Le régime bolchevique tiendra 70 ans. Non par vertu morale, mais parce qu'il a détruit toutes les structures qui auraient pu porter une restauration.
 
-À l'inverse, les révolutions molles — qui gardent les anciennes structures par compassion ou prudence — échouent presque toujours. Parce que les anciennes structures, dès qu'elles reprennent des forces, restaurent l'ancien ordre. La révolution n'aura été qu'une parenthèse.
+À l'inverse, les révolutions molles (qui gardent les anciennes structures par compassion ou prudence) échouent presque toujours. Parce que les anciennes structures, dès qu'elles reprennent des forces, restaurent l'ancien ordre. La révolution n'aura été qu'une parenthèse.
 
 ### Le cas des startups : pourquoi les fondateurs chassent les early adopters
 
-Un pattern fascinant dans les startups : les premiers employés (early adopters) sont souvent chassés quand l'entreprise scale. Pourquoi ? Parce qu'ils incarnent la culture de la phase initiale — scrappy, informelle, chaotique.
+Un pattern fascinant dans les startups : les premiers employés (early adopters) sont souvent chassés quand l'entreprise scale. Pourquoi ? Parce qu'ils incarnent la culture de la phase initiale : scrappy, informelle, chaotique.
 
 Quand l'entreprise veut professionnaliser, scaler, devenir une vraie corporation, ces early adopters deviennent un problème. Ils résistent aux processus. Ils se plaignent que « ce n'est plus comme avant ». Ils incarnent une nostalgie paralysante.
 
-Le fondateur machiavélien les remplace. Il recrute des professionnels expérimentés qui n'ont aucune nostalgie de la phase garage. Qui acceptent — voire demandent — des processus, des hiérarchies, des structures. Et l'entreprise scale.
+Le fondateur machiavélien les remplace. Il recrute des professionnels expérimentés qui n'ont aucune nostalgie de la phase garage. Qui acceptent (voire demandent) des processus, des hiérarchies, des structures. Et l'entreprise scale.
 
 Les fondateurs sentimentaux gardent les early adopters par loyauté. « Ils étaient là depuis le début. » Résultat : l'entreprise reste bloquée dans une culture early-stage. Elle ne scale jamais vraiment. Ou elle scale mais dans des conflits permanents entre « les anciens » (nostalgiques) et « les nouveaux » (professionnels).
 

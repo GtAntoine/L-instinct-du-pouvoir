@@ -1,19 +1,19 @@
 # PRINCIPE VINGT-DEUXIÈME
 ## LA VIRTÙ DOMPTE LA FORTUNA
 
-> *« Je ne suis pas sans savoir que beaucoup ont cru et croient encore que les choses du monde sont gouvernées par la fortune et par Dieu, de telle sorte que les hommes, avec toute leur sagesse, ne peuvent rien y changer. Mais je ne veux pas que notre libre arbitre soit annulé. Je crois qu'il peut être vrai que la fortune soit maîtresse de la moitié de nos actions, mais qu'elle nous en laisse gouverner à peu près l'autre moitié. »*
+> *« Je n'ignore point que bien des gens ont pensé et pensent encore que Dieu et la fortune régissent les choses de ce monde de telle manière que toute la prudence humaine ne peut en arrêter ni en régler le cours. Néanmoins, ne pouvant admettre que notre libre arbitre soit réduit à rien, j'imagine qu'il peut être vrai que la fortune dispose de la moitié de nos actions, mais qu'elle en laisse à peu près l'autre moitié en notre pouvoir. »*
 > — *Le Prince*, chapitre XXV
 
-> *« La fortune est femme, et il est nécessaire, pour la tenir soumise, de la battre et de la bousculer. »*
+> *« La fortune est femme : pour la tenir soumise, il faut la traiter avec rudesse. »*
 > — *Le Prince*, chapitre XXV
 
 ### L'équilibre entre hasard et volonté
 
-Il y a deux erreurs symétriques face à l'existence. La première : croire que tout est déterminé — par les dieux, par le destin, par les circonstances. Résultat : résignation passive, attente fataliste, abdication de toute agence.
+Il y a deux erreurs symétriques face à l'existence. La première : croire que tout est déterminé (par les dieux, par le destin, par les circonstances). Résultat : résignation passive, attente fataliste, abdication de toute agence.
 
-La seconde : croire que tout dépend de vous — que la volonté triomphe toujours, que l'effort suffit, que le talent garantit le succès. Résultat : arrogance aveugle, incompréhension de l'échec, refus de reconnaître le rôle du hasard.
+La seconde : croire que tout dépend de vous, que la volonté triomphe toujours, que l'effort suffit, que le talent garantit le succès. Résultat : arrogance aveugle, incompréhension de l'échec, refus de reconnaître le rôle du hasard.
 
-Machiavel navigue entre les deux avec une précision chirurgicale. Il dit : la moitié de votre destin est gouvernée par la fortune (le hasard, les circonstances, la chance). L'autre moitié est gouvernée par la virtù (la compétence, l'effort, la détermination).
+Machiavel navigue entre les deux. Il dit : la moitié de votre destin est gouvernée par la fortune (le hasard, les circonstances, la chance). L'autre moitié est gouvernée par la virtù (la compétence, l'effort, la détermination).
 
 Cette formule (50-50) n'est probablement pas une mesure exacte. C'est une *position philosophique* : ni fatalisme ni hubris. Reconnaître la part du hasard sans s'y résigner. Reconnaître la part de l'agence sans surestimer son pouvoir.
 
@@ -28,13 +28,13 @@ Les humains sont remarquablement mauvais pour évaluer le rôle de la chance dan
 - Quand nous réussissons, nous attribuons le succès à nos qualités personnelles (talent, travail, intelligence)
 - Quand nous échouons, nous attribuons l'échec à des facteurs externes (malchance, circonstances, autres)
 
-C'est le *self-serving bias* — le biais d'auto-complaisance. Il protège notre ego. Mais il nous rend aveugles à la part du hasard dans nos trajectoires.
+C'est le *self-serving bias* (le biais d'auto-complaisance). Il protège notre ego. Mais il nous rend aveugles à la part du hasard dans nos trajectoires.
 
 Exemple classique : les traders en finance. Une étude sur les hedge funds montre que les meilleurs performers sur une année donnée n'ont pas de meilleurs résultats les années suivantes[^2]. Pourquoi ? Parce que leur performance initiale était largement due à la chance (pari sur le bon secteur au bon moment). Mais ils l'attribuent à leur talent. Ils développent un excès de confiance. Ils prennent des risques excessifs. Et ils finissent par régresser vers la moyenne.
 
 [^2]: Fama, E. F., & French, K. R. (2010). "Luck versus Skill in the Cross-Section of Mutual Fund Returns." *Journal of Finance*, 65(5), 1915-1947.
 
-Machiavel, sans connaître ces études, avait observé le même phénomène chez les princes. Les princes qui réussissaient jeunes (souvent par chance — bonnes circonstances, ennemis divisés, alliances favorables) développaient une arrogance. Ils croyaient que tout leur succès venait de leur virtù. Ils cessaient de se préparer, de s'adapter, d'être vigilants. Et quand la fortune tournait (et elle tourne toujours), ils étaient écrasés.
+Machiavel, sans connaître ces études, avait observé le même phénomène chez les princes. Les princes qui réussissaient jeunes (souvent par chance : bonnes circonstances, ennemis divisés, alliances favorables) développaient une arrogance. Ils croyaient que tout leur succès venait de leur virtù. Ils cessaient de se préparer, de s'adapter, d'être vigilants. Et quand la fortune tournait (et elle tourne toujours), ils étaient écrasés.
 
 À l'inverse, les princes lucides reconnaissaient la part de la chance dans leur succès. Ils continuaient à se préparer même dans la prospérité. Ils construisaient des digues pendant le beau temps. Et quand la fortune tournait, ils survivaient.
 
@@ -44,7 +44,7 @@ La leçon machiavélienne : reconnaître la fortune n'est pas du fatalisme. C'es
 
 Machiavel utilise une métaphore brillante : la fortune est comme un fleuve en crue. Quand elle déborde, elle détruit tout sur son passage. Les hommes fuient, impuissants.
 
-Mais — et c'est le point crucial — cette impuissance pendant la crue est due à un manque de préparation *avant* la crue. Si, pendant les périodes calmes, les hommes avaient construit des digues, des canaux, des barrages, ils auraient pu canaliser le fleuve. La crue ne les aurait pas détruits.
+Mais (et c'est le point crucial) cette impuissance pendant la crue est due à un manque de préparation *avant* la crue. Si, pendant les périodes calmes, les hommes avaient construit des digues, des canaux, des barrages, ils auraient pu canaliser le fleuve. La crue ne les aurait pas détruits.
 
 Transposé : la fortune frappe tous les princes. Des crises surviennent (guerres, famines, trahisons, révolutions). Certains princes sont détruits. D'autres survivent.
 
@@ -92,7 +92,7 @@ Les investisseurs détruits en 2008 sont ceux qui étaient entièrement investis
 
 ### La « chance » des grands hommes : pourquoi ils semblent toujours chanceux
 
-Il y a un paradoxe apparent. Les grands leaders — Napoléon, Churchill, Steve Jobs — semblent *exceptionnellement* chanceux. Des opportunités surgissent au bon moment. Des crises se résolvent miraculeusement. Des rivaux font des erreurs stupides exactement quand il faut.
+Il y a un paradoxe apparent. Les grands leaders (Napoléon, Churchill, Steve Jobs) semblent *exceptionnellement* chanceux. Des opportunités surgissent au bon moment. Des crises se résolvent miraculeusement. Des rivaux font des erreurs stupides exactement quand il faut.
 
 Sont-ils vraiment plus chanceux ? Ou y a-t-il autre chose ?
 
@@ -107,7 +107,7 @@ Richard Wiseman, psychologue britannique, a étudié ce qu'il appelle « le fact
 
 Autrement dit : la « chance » n'est pas aléatoire. C'est la rencontre entre une préparation active et des occasions qui surgissent.
 
-Machiavel l'avait compris. Les princes qu'il admire ne sont pas assis à attendre passivement que la fortune les favorise. Ils *cherchent activement* les occasions. Ils se *préparent* pour être capables de les saisir. Et quand l'occasion surgit — souvent de manière imprévisible —, ils sont prêts.
+Machiavel l'avait compris. Les princes qu'il admire ne sont pas assis à attendre passivement que la fortune les favorise. Ils *cherchent activement* les occasions. Ils se *préparent* pour être capables de les saisir. Et quand l'occasion surgit, souvent de manière imprévisible, ils sont prêts.
 
 La fortune favorise les audacieux, dit le proverbe. Machiavel précise : la fortune favorise les audacieux *préparés*. L'audace sans préparation est de la témérité (souvent fatale). La préparation sans audace est stérile (vous êtes prêt mais ne sautez jamais). L'audace *et* la préparation ensemble transforment la fortune en alliée.
 
@@ -143,7 +143,7 @@ Concentrez-vous sur ce que vous pouvez faire :
 - Accumuler des ressources (virtù économique)
 - Rester vigilant aux occasions (virtù opportuniste)
 
-Faites tout cela avec une énergie maximale. Et quand la fortune tourne en votre faveur — ce qu'elle fera à un moment ou un autre pour ceux qui sont préparés — saisissez l'occasion avec une audace totale.
+Faites tout cela avec une énergie maximale. Et quand la fortune tourne en votre faveur (ce qu'elle fera à un moment ou un autre pour ceux qui sont préparés) saisissez l'occasion avec une audace totale.
 
 Vous ne contrôlez pas quand les occasions viennent. Mais vous contrôlez si vous êtes prêt quand elles arrivent. C'est ça, la moitié d'agence que Machiavel vous donne. Ne la gaspillez pas.
 
@@ -153,7 +153,7 @@ Ce que Machiavel nous enseigne dans ce principe, c'est un équilibre existentiel
 
 La fortune existe. Elle est capricieuse. Elle frappe sans prévenir. Elle favorise les uns et écrase les autres sans logique apparente. Reconnaître cela n'est pas du pessimisme. C'est du réalisme.
 
-Mais — et c'est le point crucial — reconnaître la fortune n'annule pas l'agence. Il reste une moitié de votre destin que vous pouvez façonner. Et cette moitié, si vous la cultivez avec une discipline de fer, peut faire basculer les probabilités en votre faveur.
+Mais (et c'est le point crucial) reconnaître la fortune n'annule pas l'agence. Il reste une moitié de votre destin que vous pouvez façonner. Et cette moitié, si vous la cultivez avec une discipline de fer, peut faire basculer les probabilités en votre faveur.
 
 Comment ?
 - **Préparez-vous** pendant les périodes calmes (construisez les digues avant la crue)

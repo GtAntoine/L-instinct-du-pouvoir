@@ -6,9 +6,9 @@
 
 ### La métaphore du fleuve et la dialectique de la nécessité
 
-La fortune — ce que nous appellerions aujourd'hui le hasard, la chance, les circonstances incontrôlables — a fasciné Machiavel toute sa vie. Non pas comme une force mystique ou divine, mais comme un problème stratégique. Comment agir dans un monde partiellement aléatoire ? Comment concilier la volonté humaine avec l'existence de forces qui nous dépassent ?
+La fortune (ce que nous appellerions aujourd'hui le hasard, la chance, les circonstances incontrôlables) a fasciné Machiavel toute sa vie. Non pas comme une force mystique ou divine, mais comme un problème stratégique. Comment agir dans un monde partiellement aléatoire ? Comment concilier la volonté humaine avec l'existence de forces qui nous dépassent ?
 
-Sa réponse tient dans une métaphore hydraulique d'une élégance remarquable. La fortune est comme un fleuve. Quand il déborde, la volonté humaine ne peut rien. Tout ce qu'on peut faire, c'est fuir, subir, espérer survivre. Mais — et c'est le point crucial — quand le fleuve est calme, on peut construire des digues.
+Sa réponse tient dans une métaphore hydraulique d'une élégance remarquable. La fortune est comme un fleuve. Quand il déborde, la volonté humaine ne peut rien. Tout ce qu'on peut faire, c'est fuir, subir, espérer survivre. Mais (et c'est le point crucial) quand le fleuve est calme, on peut construire des digues.
 
 Les digues ne suppriment pas le fleuve. Elles n'empêchent pas la pluie de tomber. Mais elles canalisent, elles contiennent, elles rendent les crues *gérables*. La fortune frappe toujours. Mais celui qui a construit des digues survit là où celui qui n'en a pas construit périt.
 
@@ -16,13 +16,13 @@ Ce n'est ni le fatalisme (« tout est fortune, on ne peut rien faire ») ni l'hu
 
 ### La part du hasard dans le succès : Robert Frank et les tournois winner-take-all
 
-L'économiste Robert Frank a passé des années à étudier la part de la chance dans le succès[^1]. Sa conclusion, appuyée par des simulations informatiques élégantes, est troublante : dans les systèmes compétitifs à fort effet de réseau — les marchés du travail des élites, les industries créatives, les positions de pouvoir — même une petite variation de chance initiale peut produire d'*énormes* différences de résultat final.
+L'économiste Robert Frank a passé des années à étudier la part de la chance dans le succès[^1]. Sa conclusion, appuyée par des simulations informatiques élégantes, est troublante : dans les systèmes compétitifs à fort effet de réseau (les marchés du travail des élites, les industries créatives, les positions de pouvoir) même une petite variation de chance initiale peut produire d'*énormes* différences de résultat final.
 
 [^1]: Frank, R. H. (2016). *Success and Luck: Good Fortune and the Myth of Meritocracy*. Princeton, NJ: Princeton University Press.
 
-Imaginez un tournoi où 10 000 participants s'affrontent, et où 98 % du résultat dépend du talent et 2 % de la chance. Intuitivement, on se dit que les meilleurs devraient gagner. Et statistiquement, c'est vrai — mais avec une nuance capitale.
+Imaginez un tournoi où 10 000 participants s'affrontent, et où 98 % du résultat dépend du talent et 2 % de la chance. Intuitivement, on se dit que les meilleurs devraient gagner. Et statistiquement, c'est vrai (mais avec une nuance capitale).
 
-Les 100 meilleurs sont tous à peu près aussi talentueux. La différence entre le n°1 et le n°100 en termes de compétence pure est minuscule. Mais ces 2 % de chance — une rencontre fortuite, un timing parfait, un événement extérieur favorable — suffisent à déterminer qui, parmi ces 100 excellents, finit en tête.
+Les 100 meilleurs sont tous à peu près aussi talentueux. La différence entre le n°1 et le n°100 en termes de compétence pure est minuscule. Mais ces 2 % de chance (une rencontre fortuite, un timing parfait, un événement extérieur favorable) suffisent à déterminer qui, parmi ces 100 excellents, finit en tête.
 
 Résultat : le vainqueur du tournoi est *toujours* quelqu'un de très talentueux *et* de chanceux. Pas l'un sans l'autre. Frank démontre que même dans un monde à 98 % méritocratique, les vainqueurs sont ceux qui ont eu 2 % de chance en plus.
 
@@ -128,11 +128,11 @@ Ce n'est pas contradictoire. C'est *complémentaire*.
 
 - **En temps de crise** : agissez avec impétuosité. Ne paralysez pas dans l'analyse. Testez. Pivotez. Ajustez. Les digues que vous avez construites vous donnent la marge d'erreur pour oser.
 
-C'est exactement ce que font les startups à succès. En période normale, elles lèvent des fonds (construisent des digues financières), recrutent des talents (digues humaines), testent des produits (digues de connaissance). Puis, quand l'opportunité ou la crise arrive, elles pivotent avec une rapidité qui semble imprudente — mais qui est rendue possible par les digues construites avant.
+C'est exactement ce que font les startups à succès. En période normale, elles lèvent des fonds (construisent des digues financières), recrutent des talents (digues humaines), testent des produits (digues de connaissance). Puis, quand l'opportunité ou la crise arrive, elles pivotent avec une rapidité qui semble imprudente, mais qui est rendue possible par les digues construites avant.
 
 ### La leçon existentielle : agentivité face à l'absurde
 
-Il y a quelque chose de profondément humaniste — presque existentialiste — dans ce chapitre de Machiavel. Il reconnaît que le monde est partiellement absurde, que la fortune frappe sans logique, que des gens brillants échouent et des médiocres réussissent.
+Il y a quelque chose de profondément humaniste (presque existentialiste) dans ce chapitre de Machiavel. Il reconnaît que le monde est partiellement absurde, que la fortune frappe sans logique, que des gens brillants échouent et des médiocres réussissent.
 
 Mais il refuse le fatalisme. Il refuse de dire : « Tout est fortune, à quoi bon ? »
 
@@ -154,11 +154,11 @@ C'est une justification théologique d'un principe séculier : si tout était d�
 
 Mais si une moitié dépend de nous, alors nous *comptons*. Nos choix *pèsent*. Notre vertu *importe*.
 
-C'est une réhabilitation du libre arbitre par la porte de derrière. Machiavel ne croit probablement pas littéralement que Dieu a voulu laisser une moitié aux humains. Mais il croit — ou veut croire — que l'action humaine n'est pas vaine. Que construire des digues sert à quelque chose. Que la vertu n'est pas qu'une illusion que la fortune balaiera.
+C'est une réhabilitation du libre arbitre par la porte de derrière. Machiavel ne croit probablement pas littéralement que Dieu a voulu laisser une moitié aux humains. Mais il croit (ou veut croire) que l'action humaine n'est pas vaine. Que construire des digues sert à quelque chose. Que la vertu n'est pas qu'une illusion que la fortune balaiera.
 
 C'est peut-être la seule vraie note d'optimisme dans tout *Le Prince*. Machiavel, qui décrit si froidement la cruauté nécessaire, la trahison inévitable, la fragilité du pouvoir, affirme quand même : *vous comptez*. Pas complètement. Mais assez pour que ça vaille le coup d'essayer.
 
-La fortune frappe. Les digues tiennent. Parfois. Ce "parfois" suffit. Parce que l'alternative — ne rien construire, ne rien tenter, subir passivement — est pire que l'échec actif.
+La fortune frappe. Les digues tiennent. Parfois. Ce "parfois" suffit. Parce que l'alternative (ne rien construire, ne rien tenter, subir passivement) est pire que l'échec actif.
 
 Machiavel ne promet pas que les digues tiendront toujours. Il promet seulement que sans digues, vous êtes déjà noyé.
 

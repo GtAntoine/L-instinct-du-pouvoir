@@ -36,11 +36,11 @@ Résultat : les trois États restent divisés. L'empire les vainc l'un après l'
 
 C'est exactement ce que Machiavel recommande : face à plusieurs ennemis potentiels, *empêchez-les de s'unir*. Créez des divisions. Fomentez des rivalités. Faites en sorte qu'ils se craignent mutuellement plus qu'ils ne vous craignent.
 
-Et côté alliés : faites exactement l'inverse. Créez des intérêts communs. Prévenez les rivalités. Assurez-vous qu'ils vous voient comme le centre de gravité de leur alliance. Parce qu'une alliance divisée en factions rivales est pire qu'inutile — elle vous paralysera.
+Et côté alliés : faites exactement l'inverse. Créez des intérêts communs. Prévenez les rivalités. Assurez-vous qu'ils vous voient comme le centre de gravité de leur alliance. Parce qu'une alliance divisée en factions rivales est pire qu'inutile : elle vous paralysera.
 
 ### Diviser pour régner : l'Empire romain et les tribus barbares
 
-L'Empire romain a appliqué ce principe pendant des siècles. Face aux tribus barbares aux frontières — Goths, Vandales, Francs, Alamans — Rome était numériquement inférieure. Si toutes les tribus s'étaient unies, elles auraient pu écraser Rome.
+L'Empire romain a appliqué ce principe pendant des siècles. Face aux tribus barbares aux frontières (Goths, Vandales, Francs, Alamans) Rome était numériquement inférieure. Si toutes les tribus s'étaient unies, elles auraient pu écraser Rome.
 
 Rome a donc appliqué systématiquement : diviser pour régner (*divide et impera*).
 
