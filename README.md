@@ -1,12 +1,20 @@
 # L'Instinct du Pouvoir
 
 <div align="center">
-  <img src="Couverture.png" alt="Couverture" width="60%">
+  <img src="Couverture - carrée.png" alt="Couverture" width="60%">
 </div>
 
-Une analyse et interprétation des principes de Machiavel en 24 chapitres.
+*24 principes machiavéliens éclairés par les neurosciences, la psychologie évolutionnaire et l'économie comportementale.*
 
-## 📋 Contenu
+## Écouter & Lire
+
+| Format | Lien |
+|--------|------|
+| 🎧 Podcast / Audiobook | [Spotify](https://open.spotify.com/show/5ovBJbuZmAV06DBq3Z7QVH) |
+| 📄 Livre PDF | [L_Instinct_du_Pouvoir.pdf](L_Instinct_du_Pouvoir.pdf) |
+| 🔊 Fichiers audio | [audiobook/](audiobook/) |
+
+## Contenu
 
 Ce projet décortique les fondamentaux de la pensée machiavélienne moderne à travers une série de 24 principes :
 
@@ -21,7 +29,7 @@ Ce projet décortique les fondamentaux de la pensée machiavélienne moderne à 
 9. **Prévoir Maux** - L'anticipation des crises
 10. **Jamais Neutre** - L'impossibilité de rester impartial
 11. **Fortune & Moitié** - Le rôle de la chance et de la volonté
-12. **Prophètes & Armés** - La force derrière convictions
+12. **Prophètes & Armés** - La force derrière les convictions
 13. **Réforme Brutale** - Les changements radicaux
 14. **Conseil & Adulateur** - La qualité des conseillers
 15. **Agir Soi-même** - La responsabilité du leader
@@ -35,20 +43,11 @@ Ce projet décortique les fondamentaux de la pensée machiavélienne moderne à 
 23. **Liberté & Nécessaire** - Le choix et la contrainte
 24. **Vérité Effective** - Le pragmatisme avant l'idéal
 
+## Lecture
 
-## 🎨 Formats
-
-Le projet inclut :
-- 📄 Versions markdown des 24 principes
-- 🖨️ Génération PDF
-
-## 📖 Lecture
-
-Pour lire les principes :
 1. Commencez par [Avant_Propos.md](Avant_Propos.md)
 2. Parcourez les principes dans l'ordre ou selon vos intérêts
-3. Consultez le corpus pour les références originales
 
-## 📝 Licence
+## Licence
 
 Ce projet analyse les œuvres de Nicolas Machiavel et propose une réinterprétation contemporaine de sa pensée politique.
